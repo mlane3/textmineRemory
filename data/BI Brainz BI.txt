@@ -1,0 +1,61 @@
+Senior Tableau BI Dashboard Developer 
+BI Brainz - Atlanta, GA 
+In search of a Full-time Senior Tableau BI Dashboard Developer for our Atlanta office. Must be able to travel without restrictions. Please DO NOT apply if you are not interested in full-time employment or require sponsorship.
+The primary function of this position is to lead technical development initiatives for creating executive-level dashboards; scoping and interfacing with client(s).
+Primary Duties: 
+Develop complex interactive/dynamic dashboards with tools like Tableau, Qlikview Birst, SAP Design Studio, SAP Dashboards 
+Develop what if analysis and forecasting logic 
+Experience developing dashboards with drill down capability 
+Responsible for summarizing performance trends and highlighting problem areas 
+Able to reuse template/components/web services across multiple dashboards 
+Develop connected dashboards using web services 
+Organize/maintain large and complex excel spreadsheet mapping 
+Responsible for maintaining consistency across multiple dashboards 
+Responsible for optimizing user experience 
+Responsible for applying GUI standards and best practices to the dashboards 
+Responsible for providing user and technical support documents
+Required Technical Skills: 
+Senior level proficiency in building dashboards and scorecards 
+Expert SQL Developer skills 
+Background in Analytics and Data Visualization techniques 
+Solid practical experience with BI tools such as SAP BusinessObjects, Cognos, Teradata and/or other comparable tools 
+Data Warehousing & connecting to various datasources a must 
+Strong understanding of Tableau Architecture required to perform effectively 
+Strong understanding of Tableau Server implementation & administration processes and best practices 
+Expert level skills in building highly used and adopted custom reports and dashboards 
+Expert level ability to analyze data to identify deliverables, gaps and inconsistencies 
+Strong communication skills and willingness to take initiative to contribute beyond basic responsibilities 
+Ability to multitask, prioritize issues, and monitor progress
+Work Experience: 
+5+ years experience in building dynamically connected dashboards 
+5+ years experience with tools like Tableau, Qlikview, SAP Dashboards and Birst 
+5+ years experience using BI Tools such as BusinessObjects, OBIEE, Cognos 
+5+ years of experience in Business Intelligence and Reporting development 
+5+ years experience designing and developing dashboards using Tableau Desktop for various organizational metrics and indicators using best practices and industry standards. 
+Ability to work and communicate with both the business and technical experts 
+Current experience with major industries in building line of business Dashboards
+Competencies: 
+Clear, logical, and effective verbal/written communication skills. 
+Clearly demonstrated sense of urgency and bias for action. 
+Ability to work well under pressure and independently. 
+Ability to forge strong working relationships at senior levels. 
+Ability to effectively direct the work of others. 
+Demonstrated ability to interpret technical material. 
+Takes ownership of problems and develops sound solutions. 
+Demonstrates sound analytical and diagnostic skills dealing with issues that are not readily * defined and/or conflict with available information. Has the ability to reach sound decisions quickly. 
+Able to fully research business situation, identify areas of concern and present solution. 
+Has a solid working knowledge of capabilities and direction of technology, coupled with an in-depth knowledge of the technology required and the needs of the business environment necessary to support assigned projects. 
+Skilled at identifying flat areas and providing feedback to employees for performance improvement.
+Other: 
+Familiarity with visual design concepts for executive dashboards is a strong plus 
+Possesses a high and extensive level of technical skills, database software applications 
+Experience implementing BI solutions using Agile methodology is a plus
+Job Type: Full-time
+Job Location:
+Atlanta, GA
+Required experience:
+Data Analysis: 5 years 
+Tableau: 5 years 
+SQL Programming and Packages: 5 years 
+Business Intelligence: 5 years
+

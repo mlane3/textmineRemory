@@ -1,0 +1,85 @@
+
+Georgia-Pacific LLC 
+Senior Business Intelligence Developer
+Job description
+
+Who is Georgia-Pacific?Watch to find out!
+
+Georgia-Pacific (GP) is among the world's leading manufacturers of bath tissue, paper towels, napkins, tableware, paper-based packaging, office papers, cellulose, specialty fibers, nonwoven fabrics, building products and related chemicals. Our building products business makes DensGlass® gypsum board often seen in commercial construction, DryPly® plywood and RESI-MIX® wood adhesives, among others. Our containerboard and packaging business offers high-end graphic packaging to bulk bins as well as Golden Isles fluff pulp. You may also recognize consumer brands like Angel Soft®, Brawny®, and Dixie® on retail shelves and enMotion® towels, Compact® bath tissue and SmartStock® cutlery dispensers when you are away from home. Our GP Harmon business is one of the world's largest recyclers of paper, metal and plastics. As a Koch Company, we create long-term value using resources efficiently to provide innovative products and solutions that meet the needs of customers and society, while operating in a manner that is environmentally and socially responsible, and economically sound. Headquartered in Atlanta, GA., we employ approximately 35,000 people. For more information, visit www.gp.com.
+
+To learn more about our culture, Market-Based Management (MBM®), click here: 
+
+http://www.gp.com/aboutus/MBM/index.html 
+
+http://www.kochind.com/MBM
+
+A Day In The Life Typically Includes:
+
+
+Position is responsible for developing robust BI solutions for the Building Products Segment as well as researching emerging technologies to advance BI analytics architecture and user adoption. Responsibilities include design, analysis, estimation, development, and implementation. Candidate has specialized knowledge of BI development methodologies, toolsets, and approaches for end-user analytics. Has relevant experience developing mission critical business reporting/analytic applications while personally demonstrating an understanding of key business processes in Sales, Manufacturing, Accounting, and Finance. Candidate will work as part of Agile Development Team Member within fast paced environment focused on delivery of value added business projects and enhancements. Minimal travel is expected and will range from 5% to 10% depending on project needs.
+
+
+
+
+
+Responsibilities:
+
+
+
+
+Focused on analysis, design, development, and implementation of value added projects and enhancements to capture competitive advantage.
+
+
+Partner with team to explore and vet emerging technologies and methodologies for viability to create long term value.
+
+
+
+
+Participate as Agile Development Team Member executing multiple tasks, providing statuses, and supporting team members in product delivery.
+
+
+
+
+Assists Support Organization with investigation, resolution, and prevention of issues within estimated time and in accordance with acceptable quality measurements.
+
+
+
+What You Will Need:
+
+
+Basic Qualifications:
+
+
+At least 4 years of experience with Microsoft Business Intelligence Platform (SSIS,SSAS,SSRS).
+
+
+At least 5 years of experience with Microsoft SQL Server Platform (T-SQL)
+
+
+
+
+Willingness to travel as required for project development and delivery (Up to 5%).
+
+
+
+What Will Put You Ahead?
+
+
+Preferred Qualifications:
+
+
+Bachelor’s Degree in Computer Science or equivalent.
+
+
+Experience with Power BI, DAX, Tabular Modeling Concepts.
+
+
+
+
+Data Visualization Experience (i.e. Tableau)
+
+Cloud PaaS Experience (AWS, AZURE)
+Want to learn more about Georgia-Pacific?
+Salary and benefits commensurate with experience.
+We are an equal opportunity employer. Minority/Female/Disabled/Veteran
+Except where prohibited by state law, all offers of employment are conditioned upon successfully passing a drug test.

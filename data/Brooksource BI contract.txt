@@ -1,0 +1,31 @@
+Brooksource
+Business Intelligence Developer 
+8 month Contract 
+Atlanta, GA
+
+
+Responsibilities: 
+
+As a Jr BI Analyst, you'll be developing dashboards and data solutions in conjunction with key initiatives within the healthcare organization. 
+You'll be working with the data source to understand the data, pull from the source, and query. 
+Assist in the integration of Tableau into the healthcare system and increase the usage of Tableau among internal end-users. 
+Maintain new data marts for use in Tableau server. 
+Respond to ad-hoc requests for information from systems and assist with configuration of reports in a timely, efficient, and accurate manner. 
+Design, build, and deliver new reports, measures, and KPIs. 
+Current with new technologies and identify opportunities to improve Business Intelligence processes. 
+Works cross-functionally to collect data and makes actionable recommendations at all levels. 
+Aggregates data from multiple data sources to provide a complete picture of market and customer opportunity. 
+
+
+
+Requirements: 
+Bachelor of Science in Computer Science, Computer Information Systems, Management Information Systems, Information Technology, Applied Statistics, or closely-related degree. 
+0-2 years' relevant work experience. 
+Advanced SQL development and troubleshooting skills required. 
+Data Visualization experience (Tableau / Cognos / SSRS) a plus. 
+Proven track record of business analysis, requirement definition and solution delivery. 
+Ability to analyze data and work independently. 
+Ability to work well in a fast paced environment. 
+Experience working in Agile. 
+Possesses advanced computer skills with a very strong knowledge of spreadsheet programs, databases, programming languages, ETL, and decision support systems. 
+Basic knowledge of statistical algorithms and packages.

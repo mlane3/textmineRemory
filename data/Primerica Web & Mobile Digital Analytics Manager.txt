@@ -1,0 +1,47 @@
+Web & Mobile Digital Analytics Manager
+Primerica
+Job description
+Primerica is seeking a Web & Mobile Digital Analytics Manager to work in our corporate office located in Duluth Georgia : 
+
+
+
+The Web & Mobile Digital Analytics Manager works with key stakeholders from product, user experience, technology and business to define metrics, implement analytics, and establish reporting processes to: 
+Analyze and measure the right things from the outset 
+Understand usage and what features are most useful for users 
+Gauge success and identify improvements quickly 
+Evaluate and identify areas of poor performance that need attention and define triggers that require further investigation 
+Quantify the contribution of digital touchpoints to business objectives; find patterns in system usage and other user data that provides insights into business success/failure 
+Provide a holistic view of the digital user experience to drive user engagement optimization, and the execution of marketing tactics and business strategies. 
+
+Essential Functions: 
+Partner with stakeholders to assess analytics needs and create and implement a tagging and reporting plan to track the most important KPIs for our digital presences 
+Define & refine KPIs/success metrics for web and mobile experiences; set baselines and use them to track and validate performance over time 
+Perform data analysis to link and measure: 
+the performance of mobile apps and responsive websites 
+user engagement ,retention and lifetime value 
+key financial performance indicators 
+engagement, acquisition, retention and productivity 
+tie the real time analytics back to the application to drive desired user behavior 
+Connect data from multiple reporting and analytical systems together, including business analytics, to create a coherent and user-centric and cross-touchpoint set of insights across multiple dimensions and segments (e.g., website, mobile app, digital marketing and customer feedback platforms) 
+Work with the marketing team to ensure effective campaign tracking and evaluation 
+Create and consolidate dashboards and reports that provide stakeholders with an easy-to-interpret picture of how things are going 
+Assist in the evaluation and selection of tools, partners and vendors to plan, build, and mature our digital data and analytics practices, and accelerate the adoption of digital intelligence 
+Educate and advocate the importance of analytics with colleagues to build internal competencies: 
+Collaborate internally and with leadership, developers, designers, and BAs to develop analytics capabilities 
+Evaluate and experiment with analytics tools, and work with developers and BAs to implement analytics tools in the optimal way for measurement 
+
+
+
+Qualifications: 
+Required 
+Bachelor’s Degree in a quantitative field (statistics, mathematics, economics, MBA) or equivalent experience 
+Minimum 3 years of data analytics experience 
+Critical thinker with effective research and problem-solving skills, including the ability to understand the context of the particular work effort, and the implications of the results to the business 
+Experience with web, mobile and digital interaction analytics and reporting tools (e.g., Google Analytics, Adobe Analytics or Coremetrics) is essential 
+Ability to create reports or dashboards, strong Excel and PowerPoint skills 
+Strong presentation and communication skills and the ability to communicate your analysis to business and technical stakeholders 
+Experience developing data visualizations using BI or reporting tools like Tableau or Splunk 
+Preferred 
+Experience with tag management 
+Understanding of financial industry or insurance 
+Experience with qualitative research and testing, performance management, app rating, sentiment analysis and machine learning methods is a plus

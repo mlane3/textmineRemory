@@ -1,0 +1,69 @@
+Senior Manager - Analytics
+Location: London Job Type: Permanent Department: Analytics Posted on: 31/03/2017
+Purpose
+We are looking for management talent with a background in data analytics and a passion for games. In addition to leading the London-based analysts in their day-to-day activities you will be contributing to the development of analytics practices and tools across Square Enix. SEE’s Analytics department based in London uses multiple data sources to provide insight into user behaviour in our games and supporting services. This helps ensure we can use evidence in our decision making so ultimately we can deliver successful games and provide unforgettable experiences to our fans. The Senior Manager role is integral to the Analytics department and represents a great opportunity for the successful candidate to shape the future growth and direction of the team. If you have the ambition to make a real difference and have the requisite skills, we’d love to hear from you.
+Key Deliverables
+As Senior Manager - Analytics
+·      Coordinate the day-to-day activities of the analytics team
+·      Ensure the quality and timeliness of the deliverables produced by the team
+·      Guide the members of the analytics team in their professional development
+·      Lead the adoption and implementation of improved best practices in analytics
+·      Translate the analytics requirements and vision within the business into specific and actionable tasks to be executed by the analytics team
+·      Clearly communicate schedule and priorities to stakeholders
+·      Ensure data consumers are supported in learning analysis tools
+·      Take a flexible and open minded approach to new challenges
+As a Team lead
+·      Oversee tasks performed by analysts to ensure
+o   Actionable insight provided to schedule
+o   Appropriate methodology followed
+o   Relevant, usable data collected
+o   Work documented and reported appropriately
+·      Manage individual analyst development and performance goals
+·      Balance allocation of analysts across multiple game teams to ensure best outcomes
+·      Build and maintain a team of expert data analysts
+·      Ensure ad-hoc analysis requests are fulfilled
+As part of department leadership
+·      Contribute to department planning and medium/long term goals
+·      Help provide a supportive, conversant environment in which the team can develop methodologically sound data analysis techniques
+·      Remain alert to opportunities to further utilise our data to benefit the business.
+·      Drive development of methods for ensuring high quality data collection and processing
+·      To professionally represent the Analytics department at all times – internally and externally.
+ 
+
+ 
+
+Key Stakeholders
+Analytics department, Game Managers, Senior Management
+Reports to
+Head of Analytics
+Person Specification
+Essential Desirable
+Knowledge & Experience
+Strong and project management experience. Familiar with Kanban & Scrum. Able to effectively use Jira and Git to coordinate and unify team efforts
+Extensive experience in data analytics reporting and analysis
+Experience of managing and developing direct reports
+ Understanding of data collection and processing techniques
+Experience of mentoring or training 
+Knowledge of video games and the surrounding culture
+Competencies, Skills & Attributes
+Strong analytical and programming skills 
+Wide knowledge of data analysis techniques
+Highly competent SQL coder
+Knowledge of a language used for analysis such as R or Python
+Excellent communication skills both written and verbal
+Proactive
+Good judgement
+Focused on win-win outcomes
+Comfortable working with people at all organisational levels
+Ability to work under pressure and to deadlines.
+ Familiarity with Hadoop based systems and Impala
+
+Other
+Excellent attention to detail
+Strong business acumen
+Continually seeking knowledge and understanding
+Passion for video games
+Strongly driven to use scientific method to make evidence based decisions
+ 
+Application instructions
+Please send your CV and cover letter in English to the following email address, quoting "SNRMGR-ANA-LON" in the subject line: humanr@square-enix.com – applications without this code cannot be read.

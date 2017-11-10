@@ -1,0 +1,6 @@
+Aug 16, 2017 4:42:33 PM com.rapidminer.Process run
+INFO: Process //Local Repository/processes/jobsearch 2 starts
+Aug 16, 2017 4:42:33 PM com.rapidminer.Process saveResults
+INFO: Saving results.
+Aug 16, 2017 4:42:33 PM com.rapidminer.Process run
+INFO: Process //Local Repository/processes/jobsearch 2 finished successfully after 0 s

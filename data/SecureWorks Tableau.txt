@@ -1,0 +1,57 @@
+Tableau Reporting Analyst / Admin - SecureWorks
+Job description
+Tableau Reporting Analyst / Admin - SecureWorks
+
+SecureWorks is a global leader in providing intelligence-driven information security solutions. We play an important role, as no organization in the world is immune from cyberattacks and the nature of the attack is changing every day. Internet security is a problem that will never be solved. Unlike point products that address a specific technology issue, we attack the problem holistically by analyzing threat actor tactics, techniques and procedures, and develop solutions using best-of-breed technologies to protect our clients. We are one of the best in the world at understanding the threat.
+
+In short, we give our clients an early warning capability. SecureWorks was founded in 1999 and headquartered in Atlanta, Ga., with offices in all the major security markets around the globe. We have more than 2,000 team members, and partner with more than 4,200 clients in 59 countries to keep the bad guys out of their networks. We’ve been consistently recognized by industry analysts, readers’ polls and as a leader in the Gartner Magic Quadrant for managed security services, worldwide.
+
+Role Overview
+
+Our business at SecureWorks is growing rapidly and the ability to manage and analyze our data to support our current and future business needs is critical to our continued success and scaling. You will be part of the Enterprise Business Intelligence team building out a next generation real-time streaming data lake and data warehouse in AWS (S3, Redshift, Aurora, Data Pipeline and EC2). Your specific role will be as the go to person for all things reporting in Tableau as part of the Enterprise Business Intelligence team. You will wear many hats as a Business Analyst, Report developer, server administrator, and standards creator.
+
+Role Responsibilities
+Establish a self-service reporting community by collaborating with users to understand their reporting needs and guide them on how they can best build the reports. 
+Create reports for users and perform data analysis to ensure data can meet those needs and translate underlying data into beautiful Tableau visualizations. 
+Administer all aspects of Tableau server including patching, upgrading, maintaining users, groups, sites, extracts, clustering, security, etc. 
+Establish a Tableau self-service community and Competency Center to include key aspects such as standards, content certification, community / knowledge sharing, performance, data protection, data privacy, governance, etc. 
+Gather and analyze business data from various sources. 
+Work with data warehouse team to ensure data required for reporting needs are captured in the enterprise data warehouse.
+As a managed security provider, SecureWorks expects its employees to understand and apply commonly known security practices as well as possess a working knowledge of applicable industry controls such as NIST 800-53. Employees will be expected to acknowledge their security responsibilities in writing prior to gaining access to Company’s systems. Employees will be required to maintain a working knowledge of local security policies and execute general controls as assigned.
+
+Requirements
+Top-notch SQL and data analysis skills (5 year minimum). 
+Minimum 1 year of Tableau Desktop and Server experience. 
+Minimum of 5 years’ experience building reports and maintaining server infrastructure with business intelligence tools such as Microstrategy, Qlikview/Qliksense, OBIEE, SSRS, Business Objects, Cognos, etc. 
+Self-driven and self-sufficient in finding solutions and producing results. 
+Ability to analyze and tune Tableau reports by leveraging either Tableau features or database level tuning / optimization. 
+Experience working in multiple types of databases such as Redshift, Oracle, SQL Server, MySql, Postgress, etc. 
+Experience in AWS cloud is a plus. 
+Experience building a self-service reporting community and establishing a BI Competency Center. 
+Strong understanding of the importance and benefits of good data quality and ensure data quality issues are analyzed as part of the report building process. 
+Demonstrated analytical, problem solving skills. 
+Strong communication skills, both verbal and written, and the ability to work as part of a team are essential. 
+Bachelor's degree in Information Systems or similar.
+Location
+
+Atlanta, GA
+
+SecureWorks is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: SecureWorks is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at SecureWorks are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. SecureWorks will not tolerate discrimination or harassment based on any of these characteristics. SecureWorks encourages applicants of all ages.
+
+Job
+
+IT Sys Development
+
+Primary Location
+
+North America-US-GA-Atlanta
+
+Shift
+
+Day Job
+
+Organization
+
+Security Solutions
+
+Job Function: Information Technology

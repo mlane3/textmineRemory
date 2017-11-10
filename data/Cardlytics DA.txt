@@ -1,0 +1,38 @@
+Cardlytics, Inc.
+Lead Analyst, Revenue and Network Analytics
+Job description
+Overview
+
+Cardlytics is seeking an exceptional Lead Analyst to join the Revenue and Network Analytics team. The Lead Analyst will work closely with members of the Data Science, Finance, and Bank Management teams as well other members of the Cardlytics organization, and will be responsible for projects such as predicting network revenue performance, network optimization, forecasting campaign performance, and providing analytical insights and solutions into complex problems.
+
+Responsibilities
+
+Design, manage, and deliver advanced analytics across the network for Executive team 
+Contribute to the enhancement of projection and forecasting tools (to study revenue and engagement metrics) by using predictive modeling techniques and time-series analysis 
+Generate revenue forecasts by estimating the impacts of UI enhancements on network performance. 
+Proactively identify and troubleshoot network and data issues. Work with key members in engineering and campaign management to resolve these issues. 
+Identify and define new KPIs to me monitored across the network. 
+Respond to ad hoc requests for data and information 
+Work with large, aggregated data sets. 
+
+Qualifications
+
+3-5 years in an a Senior Analyst/ Manager Function 
+Experience in presenting and explaining results to senior management; excellent communication skills. 
+Experienced in a wide range of statistical techniques including test vs control measurement, analysis of variance, segmentation, clustering, predictive modeling (logistic regression, decision trees, random forests, gradient boosted regression) and time series. 
+Proficiency in Standard SQL a minimum 
+Experience with statistical software like SAS, STATA, R, Python, MATLAB or similar 
+Experience of data BI tools such as Tableau a plus 
+Advanced Excel and PowerPoint skills required 
+
+Education, Training and Travel 
+
+Bachelor’s degree in Statistics, Engineering, Mathematics, Decision Sciences, Econometrics or similar quantitative field 
+Graduate degree a plus 
+
+Communication and Cognitive Abilities 
+
+Heavy attention to detail 
+Strong communication and interpersonal skills 
+Patient and adaptable 
+Proactive problem solving capabilities

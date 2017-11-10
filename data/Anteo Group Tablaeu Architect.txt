@@ -1,0 +1,35 @@
+Tableau Architect
+Anteo Group  
+Greater Atlanta Area
+Job description
+Title: Tableau Architect 
+Location: Atlanta, GA 
+Job Type: Information Technology 
+
+
+
+
+About the Anteo Group: 
+
+
+
+The Anteo Group is a different kind of IT Talent Company. We do our homework to match the right people, with the right skills, to every client challenge. Whether you're an organization with an immediate IT staffing need or an IT professional searching for the idea opportunity, Anteo Group is the solution you've been looking for. We do IT talent right. 
+
+
+
+Required: 
+Tableau Expert; examples include: 
+Advanced Calculations: LOD expressions, table calcs, nested functions 
+Viz and UX best practices 
+Experience with diverse source connection and requirements; Redshift, Initial SQL, Complex joins and data prep 
+Dashboard actions; sheet swapping: Maximizing real estate by switching views based on parameter value 
+Performance Optimization 
+Tableau Server admin experience. Auditing extracts, user actions, etc. 
+ETL 
+Understanding of best practices in data architecture 
+Experience using ETL tools; prefer SSIS 
+Preferred: 
+- Qlik and/or Power BI development experience 
+- Row level security experience 
+- R / Python Integration 
+- Tableau APIs: Javascript API, Document AP

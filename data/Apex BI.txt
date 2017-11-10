@@ -1,0 +1,27 @@
+BI Developer- Tableau 
+Apex Systems Inc 401 reviews - Atlanta, GA 30346 
+Contract
+Job #: 749694 
+
+Description:
+Develop visual analytics for diverse subjects and data sets primarily using Tableau; occassionaly Power BI or Qlik
+Collaborate with consultants and other developers to determine best approaches based on high level requirements
+Determine data integration and transformation requirements
+Test and validate products, prepare for production
+Tableau Expert with minimum of three years experience developing and administering Tableau across large enterprise. Examples of expertise include: 
+Advanced Calculations: LOD expressions, table calcs, nested functions
+Viz and UX best practices
+Experience with diverse source connection and requirements; Redshift, Initial SQL, Complex joins and data prep
+Dashboard actions; sheet swapping: Maximizing real estate by switching views based on parameter value
+Performance Optimization
+Tableau Server admin experience. Auditing extracts, user actions, etc.
+Develop performant BI products / troubleshoot slow products and optimize
+ETL 
+Understanding of best practices in data architecture
+Experience using ETL tools; prefer SSIS
+Experience leveraging AWS
+Qlik and/or Power BI development experience
+Row level security experience
+R / Python Integration
+Tableau APIs: Javascript API, Document API
+Experience and/or Understanding of data science techniques / methodologies

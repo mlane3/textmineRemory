@@ -1,0 +1,60 @@
+Senior Data Analyst
+Equifax
+Senior Data Analyst
+
+USA - Georgia - Alpharetta - 30005
+Job Responsibilities
+Data Quality Management 
+Utilize data handling/profiling/mining tools to develop data quality metrics and business intelligence 
+Collaborate with Business Analysts to develop and test business rules for the correct handling and usage of data, including developing metrics and reports 
+Present reports to all levels of management to summarize analytic projects, data quality and usage metrics, and data integration intelligence 
+Execute ad hoc data analyses in response to business requests 
+Lead design and execution of complex projects and proofs of concept combining currently available data with new data sources 
+Independently carry out validations and analysis projects 
+Evaluate new analytic tools and techniques and mentor team members in their use 
+Review end-to-end deliverables of analytical solutions to ensure proper use and quality results 
+Create detailed documentation outlining design and technical specifications 
+Participate in collaborative software and system design and development for new platforms, products and services 
+Customer Value Creation 
+Understand internal and external customer business needs and translate them into project design and data-driven insight 
+Work with the analytics team on the formation of new analytic solutions 
+Communicate and consult with sales and product management on technical and non-technical issues 
+Explore and evaluate new concepts, technologies and industry trends related to data analytics and data supply chain management
+Required
+
+Skills/Experience
+Bachelor’s degree in a technical or quantitative field like information management, statistics, engineering, mathematics, operations research or related field; M.S. or PhD. a plus 
+3-5 years of analysis experience in credit risk, telecommunications, financial services, marketing, fraud, or insurance 
+Extensive analytic programming and automation skills using SQL. 
+Python or other scripting language 
+Experience operating in a Unix/Linux environment 
+Excellent verbal and written communication skills presenting complex analytical results to technical and non-technical audiences 
+Excellent organizational and project management skills and focuses on the highest priorities first.
+Desired
+Strong aptitude and proven ability to develop data-driven solutions to meet business objectives 
+2+ years experience with data handling/quality/BI tools (e.g., SAS, DataStage/InfoSphere, RedPoint DM/DataLever, Tableau/Spotfire) 
+2+ years experience with Big Data ecosystem (e.g., Hadoop, Greenplum, Hive/Pig) and/or distributed computing 
+Experience deriving insight from large amounts (terabytes) of diverse customer data 
+Strong analytical skills as evidenced by quantitatively and qualitatively analyzing product concepts, strategic opportunities and competitive threats 
+Comfort multi-tasking in a fast paced environment and energized by change and new opportunities, while disciplined in engineering practices and thinking 
+Works and leads effectively in a cross-functional efforts; develops effective working relationships with peers, managers, and senior management within and across organizational lines
+Primary Location:
+USA-Atlanta JV White
+
+Function
+
+Function - Data and Analytics
+
+Schedule
+
+Full time
+
+Posted 30+ Days Ago Full time J00040266
+
+Equifax powers the financial future of individuals and organizations around the world. Using the combined strength of unique trusted data, technology and innovative analytics, Equifax has grown from a consumer credit company into a leading provider of insights and knowledge that helps its customers make informed decisions. The company organizes, assimilates and analyzes data on more than 600 million consumers and more than 80 million businesses worldwide, and its databases includes employee data contributed from more than 5000 employers.
+
+Headquartered in Atlanta, Ga., Equifax operates or has investments in 21 countries in North America, Central and South America, Europe and the Asia Pacific region. It is a member of Standard & Poor's (S&P) 500® Index, and its common stock is traded on the New York Stock Exchange (NYSE) under the symbol EFX. Equifax employs approximately 9,200 employees worldwide.
+
+Some noteworthy achievements for the company include: Ranked 13 on the American BankerFinTech Forward list (2015); named a Top Technology Provider on the FinTech 100 list (2004-2015); named an InformationWeek Elite 100 Winner (2014-2015); named a Top Workplace by Atlanta Journal Constitution (2013-2015); named one of Fortune’sWorld’s Most Admired Companies (2011-2015); named one of Forbes’ World’s 100 Most Innovative Companies (2015). For more information, visit www.equifax.com
+
+Equifax is an Equal Employment Opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.

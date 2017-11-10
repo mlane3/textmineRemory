@@ -1,0 +1,35 @@
+Business Intelligence Developer
+Job ID S000074 Date posted 03/30/2017 
+Address:
+1015 Cobb Place Blvd
+Atlanta
+Georgia
+30144
+APPLY NOW 
+Description: 
+Aaron’s has a long legacy as an industry leader with continued growth. In business since 1955, we have grown to over 2,000 stores across North America built on a foundation of excellence, customer focus, quality products and services. Personally, and professionally, we hold ourselves to high standards and an unwavering commitment to do what is right; treating every individual with respect, compassion and integrity. We are highly invested in the communities we serve through our community outreach programs, donating time, products and services locally and nationally.
+As a potential Aaron’s Associate, you will share our purpose and passion for making a real difference in the lives of others and the rewards that come from creating strong personal connections for life. You will be a contributing team member in an environment that embraces challenge and has a strong drive to achieve. We like to set the bar high, roll up our sleeves and work together to out-perform the competition. You will have an opportunity to work in an environment, which prides itself on recognizing and rewarding top performers.
+Interested in becoming a Business Intelligence (BI) Developer at Aaron’s? As a BI Developer, you will be a part of an agile development team building and working on enterprise grade software systems on top of the Microsoft development stack. The BI Developer is involved in all areas of development from design to development to testing. Come see why the difference is personal at Aaron’s, connect with us today!
+The BI Developer is responsible for building, implementing and supporting Microsoft BI solutions. The right individual will possess experience in all stages of BI project work (requirements, logical and physical design, implementation, testing and deployment). The BI Developer should have a firm grasp of BI implementation methodologies and will have had in-depth experience with the Microsoft BI Stack (SSIS, SSRS and SSAS). 
+To qualify for the BI Developer position, the candidate should possess the following: 
+Analysis and Communication Skills
+Data gathering, research and analytical abilities to develop insightful conclusions and generate solutions to address user needs. 
+Create written communication materials that effectively summarize findings and support recommendations.
+Contribute to quality assurance and user acceptance testing strategies by writing test plans and participating in the execution of testing (Unit and UAT).
+Basic Qualifications: 
+3+ years Business Intelligence experience. 
+BA/BS degree in computer science, information technology, engineering or related field.
+Preferred Skills:
+Core Competency Requirements 
+The BI Developer should understand and have proven expertise in the various technologies needed to implement Microsoft BI solutions. The developer must have experience with the Microsoft BI stack and exposure to other technologies is a plus (Halo BI, Oracle, SAP BW, SAP Business Objects, etc.). 
+Preferred Competency Requirements 
+3+ years of database design and integration experience with SQL Server databases.
+Relational Database and SQL Language.
+Extraction, Transformation and Loading (ETL) experience (Microsoft SSIS).
+Analytics/OLAP Cube Development (Microsoft SSAS).
+Report Development (Microsoft SSRS).
+Knowledge of project management methodologies and best practices.
+Verbal and written communication skills.
+Multi-Dimensional Expression (MDX).
+Query/Solution performance tuning and optimization.
+Troubleshooting and incident resolution.

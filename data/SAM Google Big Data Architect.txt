@@ -1,0 +1,14 @@
+SAM & ABE 
+Google Cloud/Big Data Architect
+Job description
+Required Skills and Experience: 
+
+Google Big Data Architect with experience in:
+
+• Architecting/Implementing BI/Big Data solutions in Google Cloud Platform using services such BigQuery, Cloud SQL , Cloud Data Proc and Container Engine
+
+• Data modeling of Data Warehouse/Mart in Google BigQuery for reporting tools such as MicroStrategy/Tableau
+
+• Defining/implementing design patterns for data ingestion/transformations using ETL tools such as Informatica/Talend/Cloud DataFlow
+
+• Firm understanding of scripting languages - Python/PHP/R

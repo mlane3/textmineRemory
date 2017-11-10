@@ -1,0 +1,26 @@
+ Hi-Rez Studios is hiring an experienced Machine Learning Engineer to work at our studio in Alpharetta, Georgia.  
+
+At Hi-Rez, you will have an opportunity to be part of an innovative environment that embraces new and different ideas. We are a passionate and enthusiastic bunch who love video games. We have incredibly talented individuals who are empowered to create, & challenged to learn. All of this means more opportunities for you to unleash your ingenuity, energy, collaboration, and dedication.
+
+Come join the creator of the critically acclaimed SMITE, Paladins, Tribes: Ascend, and Global Agenda as we embark on exciting new online game projects.
+What our Machine Learning Engineers do
+
+Use and customize state of the art machine learning algorithms to apply to Hi Rez data in areas such as match making, customer value, game play, in game AI, and customer retention.
+Produce hypotheses from machine learning results to test in the game
+Iterate and refine data components captured by our games
+Interface quasi real time machine learning systems to the game for certain systems
+Who we are looking for:
+
+Bachelor’s degree or greater in Computer Science or similar discipline (Math, Physics, CE or EE) with significant course work in machine learning areas.
+Very strong math and theory background in machine learning systems
+Solid programming skills.
+3+ years of software experience in a machine learning field
+Team-oriented but self-motivated
+Comfortable prototyping and working with iterative development process.
+Strong work ethic.
+Problem solver
+Ideal candidates have:
+
+Loves games / experience in gaming industry
+Use of cloud based machine learning toolsets
+Advanced degree with focus on macine learning

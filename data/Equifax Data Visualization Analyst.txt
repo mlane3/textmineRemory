@@ -1,0 +1,27 @@
+Data Visualization Analyst
+Equifax
+Atlanta, GA, US
+Job description
+Equifax is a global leader in consumer, commercial and workforce information solutions that provide businesses of all sizes and consumers with insight and information they can trust. Equifax organizes and assimilates data on more than 600 million consumers and 81 million businesses worldwide. The company's significant investments in differentiated data, its expertise in advanced analytics to explore and develop new multi-source data solutions, and its leading-edge proprietary technology enable it to create and deliver unparalleled customized insights that enrich both the performance of businesses and the lives of consumers. Headquartered in Atlanta, Equifax operates or has investments in 19 countries and is a member of Standard & Poor's (S&P) 500® Index. Its common stock is traded on the New York Stock Exchange (NYSE) under the symbol EFX. In 2013, Equifax was named a Bloomberg BusinessWeek Top 50 company, was #3 in Fortune's Most Admired list in its category, and was named to InfoWeek 500 as well as the FinTech 100. For more information, please visit www.equifax.com. Equifax is an equal opportunity employer and a drug-free workplace. All qualified applicants will receive consideration for employment without regard to race, color, gender, sexual orientation, gender identity or expression, religion, national origin, marital status, age, disability, veteran status, genetic information, or any other protected status.
+
+The Data Visualization Intern is an expert in evaluating data and analytical solutions to determine optimal use to maximum value for Equifax customers.
+
+Description
+Ability to tie quantitative methods to key client business issues 
+Ability to clearly present complex analytical solutions to non-analytical people 
+Ability to create new ideas for analytical solutions to solve business issues 
+Ability to take insights and translate into strategy 
+Participate in the creation and delivery of customer presentation 
+Work independently and as a team player in a matrix organization 
+Work effectively and cooperatively with internal and external stakeholders 
+Opportunity to present findings to non-analytic individuals, including senior leaders 
+
+Requirements
+Effectively deal with customer challenges 
+Handle fast paced and challenging job demands 
+Effective communication with highly technical and business team members 
+Demonstrated capability on data visualization / data discovery with technologies such as HTML/CSS, Javascript, Tableau, Tibco Spotfire, QlikView, SAS Visual Analytics, and SAS Data Visualization, custom data visualization also beneficial 
+Experience with big data platforms such as Hadoop and Greenplum and the tooling for data manipulation within these environments 
+Beneficial to have had hands on experience with SAS/R/SPSS/Python or other statistical packages 
+Minimum Bachelor degree in a quantitative discipline, (Economics, Statistics, Operations Research, Computer Science, Engineering). MBA/MS in a quantitative discipline highly preferred 
+2-3 years of work experience in data and analytics

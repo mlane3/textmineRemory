@@ -1,0 +1,32 @@
+Tableau BI Developer
+Job Location US - GA - Atlanta
+More information about this job: 
+Job Description: 
+Make a Difference Every Day with Team Applied
+The people of Applied are making a difference every day through innovation and a commitment to help safeguard and protect what matters most. With first-to-market software, mobile and data analytics solutions, Applied is revolutionizing companies to strengthen their position as trusted advisors to clients across the world. Our core values challenge employees to make a difference every day with excellence for customers and support for the communities around us. We believe that success comes from a dynamic working environment that offers professionals an opportunity to grow and succeed alongside extraordinary people.
+Learn how you can make a difference on Team Applied.
+Job Summary
+Applied Systems, Inc., a worldwide leader in insurance technology, is currently searching for a Tableau BI Developer to develop dashboards, worksheets and reports utilizing various reporting and Business Intelligence software packages such as Tableau, SSIS, and SSAS.
+Responsibilities include:
+Design, develop, test and implement operational reports, scorecards, benchmarks and executive level dashboards that utilize SQL data warehouses, OLAP cubes and columnar databases 
+Maintain production reporting systems to ensure reliable performance and scalability 
+Responsible for working with management to ensure reports are being developed that result in measurable outcomes 
+Serve as the graphical user interface subject matter expert, mastering existing BI tool capabilities as well as future enhancements as they become available, in order to continually improve our business intelligence offerings 
+Serve as the primary data analyst for business intelligence products, responsible for troubleshooting data issues and conducting root cause analysis when reporting data is in question 
+Educates internal and external clients on appropriate utilization of business intelligence product suite 
+Strong web development skills including HTML, JavaScript and CSS 
+Ability to troubleshoot complex processes with limited documentation
+Requirements:
+Bachelor’s degree in Computer Science, MIS, or related field; or equivalent work experience 
+4+ years of relevant IT experience 
+Expertise in report and dashboard development, with extensive experience creating visually impressive and user friendly interfaces using Tableau 
+Strong experience in SQL Server programming, including understanding various features such as SSIS, SSAS, SSRS and MDX 
+Solid understanding of Data Warehousing, OLAP cubes and columnar databases 
+Requires strong analytical, conceptual and problem-solving abilities. Must have experience using tools (ex. Hyperion, SQL, pivot tables etc.) to identify root causes in problematic source data when they surface as questionable report results in the BI user interface 
+Experience pulling data from SQL Server 2005, 2008, and/or 2012 databases for reports 
+Excellent communication skills 
+Exposure to Agile development methodology helpful 
+Experience in an enterprise software development environment with a strong process orientation 
+Experience working with third-party API’s (preferably Tableau API’s)
+Corporate Profile
+Applied Systems is a leading provider of software that powers the business of insurance. Recognized as a pioneer in agency management systems, insurance organizations rely on the company’s software to manage their clients and policies in a consistent manner to minimize risk, reduce operating expenses, and drive sustainable growth and profitability. Leading the industry in technology innovation, Applied Systems has been at the forefront of data exchange between agencies, brokers, carriers and their clients. Today, the company has more than 1,400 employees with customers throughout the United States, Canada, United Kingdom, Ireland, and Northern Ireland. By automating the insurance lifecycle, Applied Systems remains committed to help safeguard what matters most to millions of people around the world. To learn more, please visit www.AppliedSystems.com.

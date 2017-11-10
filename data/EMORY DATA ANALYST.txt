@@ -1,0 +1,75 @@
+
+Data Analyst
+Share to social media 
+Emory University
+Atlanta, GA, US
+Job description
+71692BR
+
+Job Requisition ID
+
+71692BR
+
+Department
+
+905020:University Registrar
+
+Job Description
+
+Reporting to the Data Manager in the Emory Office of the Registrar, the Data Analyst will support the translation of student record data into dashboards and reports to drive institutional strategy, performance and decision-making. The Data Analyst will support efforts to ensure that data standards are developed and maintained and ensure that the uses of data through reports, queries and BI solutions are accurate.
+
+Additionally the Data Analyst will support business and system re-engineering and architecture development to define future data needs. This role will play an integral part in supporting Emory’s investment in the new Student Data Warehouse, serving as an institutional consultant on matters relating to both the data warehouse and Peoplesoft reporting, by providing expertise to assist users in meeting their needs.
+
+Job Description
+
+Creates and maintains a data dictionary and meta data. Supports efforts to ensure that data standards are developed and maintained. Ensures that the uses of data through reports and queries are accurate.
+
+Supports business and system re-engineering and architecture development to define future data needs. Serves as an organizational consultant on matters relating to databases by providing expertise to assist users in meeting their needs.
+
+MINIMUM QUALIFICATIONS: Two years of experience in processes and standards related to data OR a bachelor's degree.
+2 years of experience producing data analytics, BI dashboards, or decision support solutions in a higher education setting 
+Bachelors degree in a related field from a four-year college or university 
+Proficient SQL skills and mastery of at least one statistical analytics tool; preferrably with experience in Peoplesoft Campus Solutions, Report Manager, and Tableau (or any business intelligence tools) 
+Proven analytical skills and an ability to use hard data and metrics to support assumptions and complete descriptive and exploratory analyses 
+Comfortable learning new data analysis techniques independently and continuously 
+Understanding of BI best practices/methodologies, relational database management concepts, dimensional data modeling, data warehouse concepts and reporting techniques 
+Ability to work directly with end users to ensure results meet their needs 
+Strong interpersonal skills, capable of writing recommendations and interacting with Emory colleagues and internal clients on complex topics 
+Ability to present clear, concise reporting on concurrent projects and issues 
+Knowledge related to FERPA compliance, adherence, and enforcement 
+Effective verbal and written communication skills
+Operating Unit/Division
+
+EVP Provost Academic Affairs
+
+Job Title
+
+Data Analyst
+
+This position involves::
+
+Not Applicable
+
+Full/Part Time
+
+Full-Time
+
+Regular/Temporary
+
+Regular
+
+Minimum Hourly Rate $:
+
+26.875
+
+Midpoint Hourly Rate $:
+
+37.019231
+
+Minimum Annual Rate $:
+
+55900
+
+Midpoint Annual Rate $:
+
+77000

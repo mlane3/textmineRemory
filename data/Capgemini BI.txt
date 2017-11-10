@@ -1,0 +1,42 @@
+Tableau  Developer-023868 Description 
+About Capgemini 
+With more than 180,000 people in over 40 countries, Capgemini is one of the world's foremost providers of consulting, technology and outsourcing services. The Group reported 2015 global revenues of EUR 11.9 billion. Together with its clients, Capgemini creates and delivers business and technology solutions that fit their needs , enabling them to achieve innovation and competitiveness. A deeply multicultural organization, Capgemini has developed its own way of working, the Collaborative Business ExperienceTM, and draws on Rightshore, its worldwide delivery model. 
+Learn more about us at www.capgemini.com. 
+Rightshore® is a trademark belonging to Capgemini 
+Capgemini is an Equal Opportunity Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, national origin, gender identity/expression, age, religion, disability, sexual orientation, genetics, veteran status, marital status or any other characteristic protected by law. 
+
+This is a general description of the Duties, Responsibilities and Qualifications required for this position. Physical, mental, sensory or environmental demands may be referenced in an attempt to communicate the manner in which this position traditionally is performed. Whenever necessary to provide individuals with disabilities an equal employment opportunity, Capgemini will consider reasonable accommodations that might involve varying job requirements and/or changing the way this job is performed, provided that such accommodations do not pose an undue hardship. 
+Capgemini's robust Outsourcing offerings include: Applications Management, Infrastructure Management and Business Process Management. We combine these services with our deep industry knowledge and experience to provide the change agent to accelerate business growth. We generate quality and speed through our proven tools, methods and global centers. These capabilities, coupled with our program management expertise are tailored to fit the most challenging business needs.
+With their expertise in a specific technology environment, Applications Consultants are responsible for software-specific design and realization, as well as testing, deployment and release management, or technical and functional application management of client-specific package based solutions (e.g. SAP, ORACLE). These roles also require functional and methodological capabilities in testing and training.
+You are learning and developing the knowledge, technical skills and core consulting behaviors required to succeed in Application Services. You learn an appropriate methodology and acquire knowledge of a business domain and a Package Based Solution. You demonstrate flexibility and versatility in meeting objectives and should be able to manage your workload and update management on task progress. You should already demonstrate progressing skills in building solutions and in optimizing and improving a client’s applications and systems.
+Click the following link for more information on your rights as an Applicant - http://www.capgemini.com/resources/equal-employment-opportunity-is-the-law Qualifications 
+Summary:
+
+The Tableau Developer will design, develop, implement and deliver solutions to solve basic to complex problems. The candidate will collaborate with business and technology leaders to identify key business requirements. The developer ensure technical quality, accuracy, efficiency and adherence to timelines of solution delivery.
+
+Function:
+Interact with client to understand their business and reporting needs, including the identification of critical metrics and KPIs 
+Partner closely with cross-function peers and leaders to deliver reporting projects that solve business requirements 
+Strong understanding of Tableau Architecture required to perform effectively 
+Build and prototype dashboards to provide insights into the operations of a business function. 
+Develop rich interactive visualizations integrating various reporting components from multiple data sources 
+Work closely with the Data Architecture team and provide technical design recommendations on the data mart structures which support analytical applications 
+Design specs for BI front end applications including dash boards & reporting, considering appropriate data flow and capture 
+Proficient building more complex calculations and presentations 
+Identify problem trends and corrective actions and documenting these through modification of existing best practices guidelines.
+Requirements: 
+Minimum of 5+ years of experience in reporting and analytics. 3+ years of experience working with Business Intelligence, Analytics and\or Data Warehousing technologies 
+3+ years’ experience designing and developing dashboards using Tableau Desktop for various organizational metrics and indicators using best practices and industry standards. 
+Expert level skills in building highly used & adopted custom reports and dashboards 
+Expert level skills in Schema design and Dimensional data modeling 
+Expert level ability to analyze data to identify deliverables, gaps and inconsistencies 
+Requires a complete understanding of the business intelligence development life cycle including the ability to conduct interviews and gather the needs for desired outcomes for the BI solutions being built. 
+Strong communication skills and willingness to take initiative to contribute beyond basic responsibilities along with the ability to effectively present to the target audience. 
+With their expertise in a specific technology environment, Applications Consultants are responsible for software-specific design and realization, as well as testing, deployment and release management, or technical and functional application management of client-specific package based solutions (e.g. SAP, ORACLE). These roles also require functional and methodological capabilities in testing and training. 
+Required Skills and Experience:
+You are learning and developing the knowledge, technical skills and core consulting behaviors required to succeed in Application Services. You learn an appropriate methodology and acquire knowledge of a business domain and a Package Based Solution. You demonstrate flexibility and versatility in meeting objectives and should be able to manage your workload and update management on task progress. You should already demonstrate progressing skills in building solutions and in optimizing and improving a client’s applications and systems.
+• Qualification: Minimum 2 years experience, Bachelor’s Degree.
+• Should have progressing skills in Package Configuration.
+• Should have baseline skills in Business Analysis, Business Knowledge, Architecture Knowledge, Technical Solution Design and Vendor Management.
+Job : Programmer/Analyst Schedule : Full-time Primary Location : US-GA-Atlanta 
+Organization : I and D US

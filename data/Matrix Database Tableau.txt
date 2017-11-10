@@ -1,0 +1,16 @@
+SQL & BI Database / Datawarehouse Developer
+MATRIX Resources
+Alpharetta, GA, US
+
+Job description
+Skills
+
+Specifically, we are building a team in our Alpharetta office and looking for a BI / DW Database Engineer who has the following experience & skills
+
+Do you have experience building BI and data warehouse solutions and products. Looking for a new opportunity where you can join an successful software company yet build a new products they are developing for the healthcare market. We are looking for an experience Database Developer with strong SQL skills.
+A minimum of 3 years of SQL Server experience writing complex and yet efficient SQL queries and stored procedures.
+Experience with data visualization tools such as Tableau or PowerBI.
+Minimum of 3 years of experience in developing BI / Data Warehouse solutions using SQL Server Analysis Services (SSAS).
+Strong data analysis skills.
+Solid understanding of data warehouse concepts such as Kimball and Inmon methodologies, ETL & ELT architecture design, and tabular model design.
+Note: This is a full-time, permanent position. US citizens and Green Card Holders and those authorized to work in the US are encouraged to apply. Does this sound like you? Looking for a new challenge and enjoy building products and solutions? If you are interested, please apply with a copy of your latest resume and we will follow up to set up a time to discuss this opportunity with you further.

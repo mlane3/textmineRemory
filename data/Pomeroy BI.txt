@@ -1,0 +1,24 @@
+BI Developer 
+Pomeroy 209 reviews - Atlanta, GA 
+Contract
+Pomeroy is seeking a BI Developer to work in the Atlanta, GA area. We are seeking a Tableau expert to support the start up of Advanced Analytics capability backed by billions. We love passionate, forward thinking individuals who are driven to innovate and love facing new challenges! 
+
+Required Skills: 
+3+ years of experience developing and administering Tableau across large enterprise. 
+Bachelor's Degree in relevant field, advanced degree or certificate preferred in data science/mining 
+Advanced Calculations: LOD expressions, table calcs, nested functions 
+Experience with diverse source connection and requirements; Redshift, Initial SQL, Complex joins and data prep 
+Dashboard actions; sweet swapping: maximizing real estate by switching views based on parameter value 
+Performance optimization 
+Tableau server admin experience. Auditing extracts, user actions, etc. 
+Develop BI products, troubleshoot slow products and optimize 
+Understanding of best practices in data architecture 
+Experience using ETL tools; prefer SSIS 
+
+Job Details: 
+Develop visual analytics for diverse subjects and data sets primarily using Tableau; occasionally Power BI or Qlik 
+Collaborate with consultants and other developers to determine best approaches based on high level requirements 
+Determine data integration and transformation requirements 
+Test and validate products, prepare for production 
+
+Note: Candidate will need to be flexible in working some 7am-4pm or 8am-5pm hours Monday thru Friday.

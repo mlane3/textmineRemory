@@ -1,0 +1,56 @@
+IoT Analytics Engineer
+Eaton  
+Job description
+
+The Lighting Division of Eaton, located in Atlanta, Georgia is seeking a world-class IoT Analytics Engineer to help develop our next generation of connected lighting systems for our lighting business. The analytics engineer will be part of a Product Engineering team developing and supporting customer facing cloud based, SaaS applications. Using some of the latest technologies like Big Data, IoT, Predictive Analytics, Machine Learning and modern data collection mechanisms perform analysis and provide consolidated and actionable information to help our customers make optimal decisions. In this position the analytics engineer will be working hands on with the team to build new and innovative solutions. 
+
+In this role you will help evaluate and develop various applications in the cloud using various cloud technologies and components. You will work closely with product management and other design team members to understand the business needs, propose and develop end to end cloud solutions. The candidate will possess excellent hands on technical and communication skills with a proven track record of delivering positive results.
+
+Key Responsibilities
+
+Design and implement analytical solutions using third-party and in-house reporting tools, modeling metadata, building reports and dashboards.
+
+Develop cutting edge cloud analytic applications using the latest analytic tools and platforms offered by AWS and Azure
+
+Work with product management in understanding the business requirements and implement solutions to support analytical and reporting needs of customers
+
+Develop and integrate analytic solutions to transform sensor data to actionable information
+
+Design and implement reporting solutions to enable customers to make optimal decisions.
+
+Conduct ad-hoc data analysis and data quality investigations. 
+
+Help Improve upon the data ingestion models, ETLs, and alarming to maintain data integrity and data availability.
+
+Desired Skills and Experience
+Basic Qualifications
+
+Bachelor’s degree in a science, mathematics or engineering discipline from an accredited institution
+
+Must be able to work in the United States without corporate sponsorship now and within the future.
+
+Minimum 1 year of experience working with one or more cloud platforms like Azure, AWS, etc...
+
+Minimum 3 years of experience in delivering data organizing and storage solutions in traditional and Big Data environment
+
+Minimum 1 year of experience in scripting SQL, python, etc.
+
+Experience in one or more BI reporting and data visualization tools like Tableau, Microstrategy, QlikView, Microsoft Power BI, etc. 
+
+Preferred Qualifications
+
+Master’s Degree in Engineering from an accredited institution
+
+Experience with controls automation
+
+Experience with R, SAS BI, Cognos, OBIEE, 
+
+Experience with Spark, Storm, Kafka, or Hadoop
+
+Position Criteria
+
+Strong verbal, written and interpersonal communication skills.
+
+Ability to work independently and in a team environment
+
+Proven track record of successfully designing, reviewing and delivering engineering systems

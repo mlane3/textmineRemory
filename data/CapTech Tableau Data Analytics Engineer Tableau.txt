@@ -1,0 +1,62 @@
+Data Engineer, Analytics - Tableau
+CapTech Ventures, Inc  
+Atlanta, GA, US 
+
+Job description
+Company Description
+
+CapTech is an award-winning national management technology-consulting firm with an enterprising, entrepreneurial environment. We have achieved four straight years ranked in the Top 10 of Consulting Magazine’s Best Firms to Work For, including a #5 ranking overall in 2015. Additionally, we placed 28th within the Vault Consulting 50 for the second year in a row, including a #5 ranking in work/life balance.
+
+At CapTech you’ll experience a flat organizational structure with access to constant learning -- where your career path isn’t set in stone, and you have unlimited potential for growth. CapTech is based upon a culture of mutual respect. We look for, and hire the best. The creatively innovative, the technically insightful, the driven, the self-managed, the value conscious, the caring, and the gracious person – these are all qualities that we look for along with a love and a passion for the work that we do.
+
+Job Description
+
+CapTech Data Engineers collaborate between business operations and IT services by offering expertise in evaluating, understanding, and leveraging client data to drive fact-based decisions. BI consultants help our clients effectively leverage reporting and data tools to build strong, robust and dynamic systems that will serve the client’s long-term strategic goals. Our BI consultants enable our clients to make more informed and data-driven decisions to gain competitive advantages, increase sales, improve sales, improve core business competencies and satisfy today’s escalating customer expectations.
+
+Specific Responsibilities For The Data Engineer Include
+
+Design, develop, document, and test Business Intelligence solutions using industry standard tools.
+Create, own, and present documentation/designs to fellow team members and clients.
+Facilitate requirements gathering sessions with business and technical stakeholders to distill data and reporting requirements from business requests.
+Coordinate design and development efforts with client stakeholders to ensure the solution delivered meets the business need and is consistent with approved architectural standards.
+Performance tuning to ensure a responsive solution.
+
+Qualifications
+
+Specific qualifications for the Data Engineer include:
+
+At least 5 years experience developing business intelligence solutions using Tableau.
+Experience with tools, such as SSRS, Cognos, Microstrategy, QlikView, Spotfire, etc. is a plus.
+Familiarity with at least two different database platforms, such as Teradata, Oracle, MS SQL server or other platforms; Teradata and MS SQL strongly preferred - Extremely strong SQL skills.
+Dimensional data modeling skills.
+Hands-on experience with ETL development a plus.
+Excellent interpersonal, team management, facilitation and communication skills; must be able to communicate effectively at all levels of the client’s organization.
+
+Additional Information
+
+We offer challenging and impactful jobs with professional career paths. All CapTechers can keep their hands on technology no matter what position they hold. Our employees find their work exciting and rewarding in a culture filled with opportunities to have fun along the way.
+
+At CapTech we offer a competitive and comprehensive benefits package including, but not limited to:
+
+Competitive salary with performance based bonus opportunities
+Single and Family Health Insurance plans, including Dental coverage
+Short-Term and Long-Term disability
+Matching 401(k)
+Competitive Paid Time Off
+Training and Certification opportunities eligible for expense reimbursement
+Team building and social activities
+Mentor program to help you develop your career
+
+At this time, CapTech cannot transfer nor sponsor a work visa for this position. Applicants must be authorized to work directly for any employer in the United States without visa sponsorship.
+
+Candidates must be eligible to work in the U.S. for any employer directly (we are not open to contract or “corp to corp” agreements). 
+
+CapTech is an equal opportunity employer. 
+
+CapTech is a Drug-Free work place. 
+
+Candidates must have the ability to work at CapTech’s client locations. 
+
+All positions include the possibility of travel.
+
+CapTech has not contracted/does not contract with any outside vendors in its recruitment process. If you are interested in this position, please apply to CapTech directly.

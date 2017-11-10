@@ -1,0 +1,52 @@
+Senior BI Developer
+Lincoln Financial Group 
+
+Job description
+Alternate Locations: Atlanta, GA (Georgia); Omaha, NE (Nebraska)
+
+Relocation assistance is not available for this opportunity.
+
+Requisition #30262
+
+About The Company
+
+Lincoln Financial Group provides advice and solutions that help empower Americans to take charge of their financial lives with confidence and optimism. Today, more than 17 million customers trust our retirement, insurance and wealth protection expertise to help address their lifestyle, savings and income goals, as well as to guard against long-term care expenses. Headquartered in Radnor, Pennsylvania, Lincoln Financial Group is the marketing name for Lincoln National Corporation (NYSE:LNC) and its affiliates. The company had $222 billion in assets under management as of March 31, 2015.
+
+The Role
+
+This Senior BI Developer will consult/analyze and deliver on more complex assignments/projects for his/her assigned area(s) of business intelligence development responsibility. S/he will be responsible for analyzing business intelligence (BI) and reporting requirements, developing value-added BI solutions, quality assurance, and providing SME support to internal clients. S/he will deliver more complex BI solutions following the development life cycle process. S/he will provide data analysis review of data to identify behavioral data and patterns.
+
+Responsibilities
+
+Maintains knowledge on current and emerging developments/trends for assigned area(s) or responsibility, assess the impact, and collaborates with management to incorporate new trends and developments in current and future solutions.
+Champions and enhances organizational initiatives by positively influencing and supporting change management and/or departmental/enterprise initiatives within assigned area(s) of responsibility.
+Serves as a resource to team members and applicable internal/external stakeholders on more complex assignments/projects for his/her assigned area(s) of responsibility.
+Identifies and recommends process improvements that significantly reduce workloads or improve quality for his/her assigned area(s) of responsibility.
+Consults/Analyze on more complex assignments and/or projects for his/her assigned area(s) of responsibility.
+Define, design and develop dashboards, scorecards and interactive reports.
+Analyzes increasingly complex systems specifications of existing programs to determine requirements.
+Documents increasingly complex programs and procedures.
+Provides data analysis on data to identify trends and patterns within the business areas.
+Analyzes data for forecasting and predictive analysis.
+Provides input and validates increasingly complex project plans, test plans and implementation plans.
+Tests increasingly complex program changes thoroughly to ensure accuracy.
+Partners with internal stakeholders to ensure that solutions are designed, developed and implemented from a business point of view.
+Consults and/or participates in the requirements, design and coding walkthroughs to ensure the development of quality solutions.
+Proactively identifies problems and presents/develops solutions
+Communicates effectively with internal stakeholders and management.
+
+Education
+
+4 Year/Bachelor’s Degree or equivalent work experience (4 years of experience in lieu of Bachelors) in Computer Science, Computer Information Systems, Information Systems, Information Technology or Computer Engineering or equivalent work experience.
+
+Experience
+
+3 - 5+ Years’ experience in BI development that directly aligns with the specific responsibilities for this position
+3 - 5+ Years’ experience in data analytics that directly aligns with the specific responsibilities for this position
+Possesses advanced application of SQL queries and packages
+Experience with Business Objects Universe development, Webi development, Crystal Reports Development, Tableau or other BI solutions required
+A demonstrated track record of consistently meeting and/or exceeding performance expectations
+Possesses a bias for action and avoids workplace distractions
+Drives performance targets to completion 
+
+This position may be subject to Lincoln’s Political Contribution Policy. An offer of employment may be contingent upon disclosing to Lincoln the details of certain political contributions. Lincoln may decline to extend an offer or terminate employment for this role if it determines political contributions made could have an adverse impact on Lincoln’s current or future business interests, misrepresentations were made, or for failure to fully disclose applicable political contributions and or fundraising activities.

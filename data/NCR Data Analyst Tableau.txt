@@ -1,0 +1,65 @@
+Data Analyst
+Share to social media 
+NCR Retail
+Duluth, GA, US
+Job description
+TITLE: Data Analyst 
+
+LOCATION: United States, Georgia, Duluth
+GRADE: 11 
+
+NCR Corporation (NYSE: NCR) is the global leader in consumer transaction technologies, turning everyday interactions with businesses into exceptional experiences. With its software, hardware, and portfolio of services, NCR enables nearly 550 million transactions daily across retail, financial, travel, hospitality, telecom and technology, and small business. NCR solutions run the everyday transactions that make your life easier. NCR is headquartered in Duluth, Georgia, with approximately 29,000 employees and does business in 180 countries.
+
+Position Summary
+
+NCR is seeking individuals with demonstrated capability in the applied analytic and/or data science space. Proficiency in data development, analytical algorithms, advanced mathematics, and/or statistical modeling is required. We are looking for exceptional individuals to join our Advanced Data Enablement Team as a Data Analyst. 
+
+This role will be engaged in the design and development of analytical solutions across all the Services Business within NCR. The key requirements for this position are demonstrated abilities to communicate complex ideas, leverage mathematical concepts to effectively model business processes, and decipher and solve the toughest business problems. 
+
+“Big Data” analytics is happening right now at NCR. Our company is looking to supplement the current analytics effort with excited and driven individuals to help design, develop, and deploy advanced data analytics and decision intelligence to continue revolutionizing this 130+ year old business. If you are looking for an opportunity to inject your ideas and influence a growing data driven culture and gain operational experience with Big Data, NCR is the right place for you. 
+
+Key Areas Of Responsibility
+Understand customer business use cases and be able to translate them to analytical data applications and models with a vision on how to implement a solution 
+Clearly communicate the business and technical benefits of analytics and visualization to both business and technical audiences 
+Support subsequent business units in developing and implementing Tableau server dashboards and other analytical solutions 
+Work closely with other members of the services analytics team to drive the implementation of these solutions 
+Manipulate, aggregate and derive useful information from data stored across many sources and different databases 
+Be willing to learn: Develop expertise in areas outside of core comfort zone and learn from experienced members of the team 
+
+Job
+
+Customer Svcs/Support Services
+
+Primary Location
+
+North America-United States-Georgia-Duluth
+
+Schedule
+
+Full-time
+
+Job Posting
+
+May 9, 2017, 11:00:00 PM
+
+Basic Qualifications
+Bachelor’s Degree in Computer Science, Physics, Math, Statistics or equivalent experience 
+1-3 years of experience in the applied analytic space 
+Programming skills & experience in Java, C++, R, Perl, or Python. 
+Strong understanding of algorithms and advanced data structures. 
+Experience in solutions that leverage distributed processing of large data sets (e.g. MapReduce, Hadoop, Aster). 
+Motivated self-starter, with a high capacity for rapid learning and meticulous attention to detail. 
+Understanding of database fundamentals and SQL Programming. 
+
+Key Skills And Attributes
+Ability to apply data analysis to solve a business problem that has a real impact to customers 
+Excellent team player 
+Must be self-motivated, results driven, and able to work with minimum supervision 
+Intellectually curious: Willingness to try solutions and work through failures 
+Outstanding interpersonal, communication and customer relationship skills – able to work effectively with internal customer from developers and Operations personnel through senior management 
+Excellent interpersonal, written and oral communication skills 
+EEO Statement
+Integrated into our shared values is NCR's commitment to diversity. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. This concept encompasses but is not limited to human differences with regard to race, ethnicity, religion, gender, culture and physical ability. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+
+Statement to Third Party Agencies
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.

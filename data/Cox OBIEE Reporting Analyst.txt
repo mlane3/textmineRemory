@@ -1,0 +1,78 @@
+OBIEE Reporting Analyst II
+Cox Communications  
+Atlanta, GA, US 
+
+Job description
+Description
+
+SUMMARY: This Business Intelligence Analyst II position is responsible for providing daily operational and analytical support services with a focus on Business Intelligence (BI). Functions include report creation, distribution and maintenance, operational performance and results analysis; data management, and ad-hoc project management. This position will conduct research, perform analysis and create reports to improve the performance and quality of data and service to our customers. Data is primarily telephony, data usage and or billing system related. Infrastructure includes Oracle Business Intelligence (OBIEE 12c).
+
+While this role may focus primarily more on Business Intelligence and reporting, additional duties may include, but is not limited to, daily operational application and business process support responsibilities.
+
+This position will be required to develop documentation where required to communicate to end users and for the purpose of maintaining audit requirements.
+
+POSITION RESPONSIBILITIES and ESSENTIAL FUNCTIONS: Essential Operational Duties and Responsibilities include the following. Other duties may be assigned.
+
+Support customer needs by responding quickly to incidents based on priority, and maintaining a focus on providing excellent customer service. 
+Gathering requirements, conducting business analysis, and writing technical design specifications; 
+Oversees the preparation and design of various reports, data downloads, research and special projects; 
+Provides recommendations for operational efficiency and process improvements subject to management review in support of change; 
+Performs data analysis using appropriate tools and system transactions to support recommendations; 
+Conducts quality assurance reviews of data for accuracy and completeness and assists and directs troubleshooting for data integrity if required. 
+Identifies customer concerns and resolves or escalates customer issues quickly and accurately within documented timeframes. 
+Perform problem determination (root cause analysis), document the source of problems and their resolution. Recognize and analyze trends in errors so as to identify and install long term solutions to problems. 
+Perform validation when new releases are deployed into production which may require validation after hours (early morning or late at night). 
+Responds to requests or questions on interpretation or reporting of data. 
+Validates test plans and test scenarios; verify test results. 
+Effectively communicate with Business users and customers. 
+Technical application support and troubleshooting 
+Report and obtain user sign-off for changes 
+Track status of change requests 
+Actively utilize project and time management skills to complete projects within specified timeframes.
+
+COX-443
+
+Qualifications
+
+Qualifications
+
+Minimum: 
+Bachelor of Science degree in Computer Science, Computer Information Systems or 3-5 years related field or equivalent work experience. 
+Hands on experience with OBIEE and BI Publisher version 12C including Dashboard, Reports, RPD design and development. 
+Ability to understand and write SQL to perform data analysis and test reports. 
+Proficient in Microsoft Office Suite, Excel (including pivot tables, v-lookup, concatenation) & Access 
+Excellent written and oral communications skills 
+Strong focus on customer service 
+Ability to work autonomously on project related tasks or in team situations. 
+General understanding of telephony processes and/or billing and support systems, and how usage data is related to those systems 
+Strong analytical skills 
+Previous experience with telephony data and telephony BSS systems 
+Ability to work well under pressure and commit to meeting strict deadlines
+
+Preferred: 
+Experience with the following: UNIX, SQL, SQL Loader, Tableau, Oracle and AS/400 (ICOMS) 
+Functional knowledge of tools and resources used by the telecommunications industry (i.e. LERG, TPM, NANPA, Telcordia) 
+Experience analyzing call detail record (CDR) 
+Experience with large databases (>5 TB)
+
+COX-443
+
+About Cox Communications
+
+Cox Communications is a broadband communications and entertainment company, providing advanced digital video, Internet, telephone and home security and automation services over its own nationwide IP network. The third-largest U.S. cable company, Cox serves approximately 6 million residences and businesses. Cox Business is a facilities-based provider of voice, video and data solutions for commercial customers, and Cox Media is a full-service provider of national and local cable spot and digital media advertising. Cox is known for its pioneering efforts in broadband, voice and commercial services, industry-leading customer care and its outstanding workplaces. For nine years, Cox has been recognized as the top operator for women by Women in Cable Telecommunications; Cox has ranked among DiversityInc's Top 50 Companies for Diversity 11 times. More information about Cox Communications, a wholly owned subsidiary of Cox Enterprises, is available at www.cox.com and www.coxmedia.com.
+
+Organization: Cox Communications, Inc.
+
+Primary Location: US-GA-Atlanta-6305 Peachtree Dunwoody Rd
+
+Employee Status: Regular
+
+Job Level: Individual Contributor
+
+Shift: Day Job
+
+Travel: No
+
+Schedule: Full-time
+
+Unposting Date: OngoingCategory: Information Technology

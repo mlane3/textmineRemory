@@ -1,0 +1,37 @@
+Avanade Careers
+Consultant, Advanced Analytics
+Locations: Atlanta, Georgia
+Analytics 
+
+Job Description
+Job Description
+About the Role
+An Avanade Business Intelligence Developer you will be responsible for the analysis, design and delivery of data management, data visualization, warehousing, analysis and reporting solutions for Avanade’s customers. The Business Intelligence solution Developer will drive the creation of high-value business intelligence leveraging Avanade’s proven implementation methodology and solutions on the Microsoft technology platform. This position will work collaboratively across all Avanade’s sales, service delivery and account management organizations in the service to Avanade’s customers.
+This position will represent Avanade's solution delivery approach for data management and reporting solutions and as such must demonstrate high-level technical implementation proficiency. This position requires the ability to translate objectives into technical solutions. The ideal candidate will have extensive hands-on experience using Business Intelligence technologies to implement data integration, data warehousing, analytics and reporting (e.g. reports, scorecards, and dashboards).
+Qualifications
+About You
+You have extensive, hands-on experience using Business Intelligence technologies to implement data integration, data warehousing, analytics and reporting. Day-to-day, you will: Lead the creation of high-value business intelligence, collaborate with sales, service delivery and account management organizations, and travel as needed, local and overnight, around 80% regional travel weekly to the client location.
+Qualifications
+Your background and skills likely include:
+Experience in projects using Azure HD Insights / Spark Development
+3-6 Years previous Analytics experience using SQL
+Experience with automated infrastructure deployments
+Configuration of HD Insights and related Azure services
+Create and operationalize data pipeline using SPARK
+Author operationalized queries using SPARK
+Exposure to Hadoop and other Big Data tools
+Microsoft solutions:
+SQL 2016
+Power BI (and Power View)
+Azure, and Azure Data Factory, Data Lake
+Big Data technologies such as Hortonworks
+Hadoop and MongoDB, a plus
+R and Machine Learning, a plus
+Tableau, a plus
+Exposure to programming and C#
+Must have excellent communication skills and hands-on experience working on component based applications in a distributed environment
+*Regional travel required
+Requisition ID - 
+Avanade is the leading provider of innovative digital and cloud services, business solutions and design-led experiences delivered through the power of people and the Microsoft ecosystem. Our professionals combine technology, business and industry expertise to build and deploy solutions to realize results for our clients and their customers. Avanade has 29,000 digitally connected people across 23 countries, bringing clients the best thinking through a collaborative culture that honors diversity and reflects the communities in which we operate. Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com.
+Requisition ID - 45364
+Avanade is the leading provider of innovative digital and cloud-enabling services, business solutions and design-led experiences, delivered through the power of people and the Microsoft ecosystem. Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation and has 30,000 professionals in 24 countries. Visit us at www.avanade.com.

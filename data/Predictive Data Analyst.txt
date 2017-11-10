@@ -1,0 +1,36 @@
+Predictive Data Analyst
+HUNTER Technical Resources - htrjobs.com
+Atlanta, GA, US
+
+Job description
+This role resides in our client' s Talent Acquisition department supporting the Pipeline and Sourcing functions. The Predictive Analyst will use statistical analysis software to locate trends and make data based recommendations in a meaningful and actionable manner. They will be responsible for increasing the demand predictability of Talent Pipelines. This position requires the aptitude to deeply understand business hiring demand and trends.
+
+Responsibilities
+Works with management to support strategic planning activities by providing actionable recommendations based on assessments of hiring demand
+Provides and conducts trend analysis to support talent pipeline and sourcing
+Writes reports, creates charts, presentations, and timelines
+Interpret data, analyze results using statistical techniques
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
+Acquire data from primary or secondary data sources and maintain databases/data systems
+Identify, analyze, and interpret trends or patterns in complex data sets
+Locate and define new process improvement opportunities
+
+Requirements
+2-3 years of experience in the field of Analysis with a proven background and work examples
+Knowledge and experience forecasting demand in a corporate setting
+Experience with cleaning and aggregating data, analyzing large data sets, and identifying trends and patterns
+Ability to use statistical analysis software such as SAS or Minitab, as well as Tableau
+Demonstrated skills with descriptive and predictive statistics
+Capable of working with disparate data and combining into one cohesive data set
+Experience with creating effective forecasting models, accuracy measurement, and outlier detection/correction
+Ability to clearly communicate complex ideas in a simple yet effective manner
+Exceptional ability to work with various teams and gain consensus
+Demonstrated strength in problem solving and analytics and capable of driving insight to action
+High level of competence with Microsoft Office suite (specifically advanced Microsoft Excel and PowerPoint)
+Preferred Qualifications
+Degree in Math, Business, Economics or a related field that requires analysis and quantitative methods
+Six Sigma and Lean training and/or certifications
+PeopleSoft, OBIEE, or Tableau reporting knowledge
+Knowledge of Avature CRM
+System knowledge to support HRMS applications related to supporting a Talent Acquisition or Workforce Planning function
+Proficiency in SQL based language to extract, transform, and normalize data

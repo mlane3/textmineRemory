@@ -1,0 +1,42 @@
+Job description
+General Manager of Business Intelligence Requisition #: 266789 Atlanta, GA 
+The General Manager of Business Intelligence Center of Excellence for Delta Air Lines, Inc. will be responsible for leading the Business Intelligence Center of Excellence (BI CoE), provide Information Strategy and Analytic support to Delta's business units. 
+The successful candidate will lead business solutions, information architecture, analysis and design, data sourcing, ad hoc reporting and analytics support. 
+
+The General Manager of BI CoE must be an expert in the field of BI/DW, including specific knowledge of implementing CoE best practices, processes and structures. 
+The General Manager is accountable for all resources, engagements, deliveries, and finances of the BI CoE. 
+
+Delta's BI CoE model is an "Insights as a Service" (IaaS) model, meaning that project teams exist for key business units (BU). 
+
+These teams focus on providing the analytics required for the BU to which they are assigned. Each team is comprised of both business and/or IT / BI staff as appropriate for that BU. Other CoE roles provide architecture, governance, project and solution support for solutions these teams develop. 
+
+Responsibilities include: 
+
+* Drive transformation of Business Intelligence organization to support newly developed Information Strategy 
+* Partner with business teams to identify data requirements and strategy to achieve corporate business intelligence objectives 
+* Support business units with tools and analytics to support information needs 
+* Build and maintain a strong working relationship with business partners (both internal and external) 
+* Manage budget for department/projects including forecasting, cost tracking, variances explanations and corrections, etc. 
+* Manage all aspects of employees' overall performance, including coaching, mentoring, and professional development 
+* Maintaining the right level and balance of staff within both the support and project teams 
+* Ensuring that technical and data architectures and governance policies, standards and reviews are carried out 
+* Ensuring that the BI CoE technical and application support level agreements are defined and staffed to a level adequate to meet them toward providing high customer/end user satisfaction 
+* Overseeing the BI CoE and reporting directly to the leadership panels on DW/BI status and project progress 
+* Evangelization of BI and analytics to Delta stakeholders 
+* Ensuring adequate support and training to BI CoE project and support staff 
+* Issue identification and escalation to the panels 
+* Provide status reports against defined performance metrics 
+* Work with demand manager on supporting triage and assessment of demand 
+* Lead will decide execution approval if demand falls within support/maintenance else new development will follow usual processes for approval 
+
+
+Qualifications: 
+
+* BA in Computer Science, Analytics, Engineering or other quantitative discipline required; MBA/Masters preferred. Aviation experience preferred 
+* 15+ years of leadership experience in managing multiple, cross-function teams and projects, and influencing senior level management and key stakeholders required 
+* 15+ year's experience in business intelligence, data modeling, analytics, data architecture. Advanced skills working with relational databases, Microsoft Office (Excel, Access), SQL Server or other related software 
+* 10+ year's experience using third-party analytical/visualization packages, dashboard design and enterprise intelligence solutions, such as Tableau, Cognos, Power BI, SharePoint, etc. preferred 
+* Solid working knowledge of BI Center of Excellence and/or Analytics as a Service delivery and organizational models 
+* Ability to lead outcome based offshore model 
+* Airline industry experience is a plus 
+Posted by: Kelly.bryan@delta.com

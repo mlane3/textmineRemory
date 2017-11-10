@@ -1,0 +1,30 @@
+Process Engineer
+Optomi
+Sr. Process Engineer, Permanent, Midtown, Atlanta 
+Optomi in partnership with a nationally known, Fortune 37 healthcare company, is seeking an experienced Process Engineer to lead efforts around process design, mapping and identifying QA tools to improve their overall change process. You will be working with a team of 7 handling over 300 + change processes a day. This company provides amazing benefits, lots of growth potential and innovative teamwork! A driven and collaborative attitude is desired as well as a passion for leadership. 
+Main Responsibilities 
+· Maintaining a detailed understanding and knowledge of the Change Management process and procedures 
+· Act as subject matter expert for Standard Change process, assures process compliance and promotes continuous improvement 
+· Act as liaison between Corporate Audit and Change Management areas. Work to remediate audit findings 
+· Perform multiple levels of Change Management approvals for application and infrastructure Changes including Urgent and Emergency Changes 
+· Coordinate Change Advisory Board meetings and agendas and maintains CAB distribution list. 
+· Manage and monitor the Change team mailbox and assures timely replies to all customer inquiries and requests 
+· Build Test scripts and Test Service Now Change Management fixes and enhancements, documents and communicates results 
+· Create and run reports to measure process effectiveness 
+· Execute monthly Change process metric reports and posts to area website 
+· Serve as customer-facing representative for the Change Management process 
+· Assist in training on the Change process and tools and related improvements 
+· Update Change process documentation for the Standard Change process 
+Required Qualifications 
+· Requires a BA / BS degree in computer or information science discipline 
+5 years’ experience supporting and improving technology processes; or any combination of education and experience, which would provide an equivalent background 
+· Knowledge of process / maturity models in the applicable domain (ITIL, CMMI, Six Sigma, COBIT) required 
+· Knowledge of process modeling languages (some of the following) such as Process Definitional Language (XPDL) and models such as Supplier, Input, Process, Output, Customer (SIPOC) preferred 
+· Experience with process design, mapping, quality tools, Change Management concepts and organizational change management concepts required. 
+· Strong organizational, problem solving and teamwork skills required 
+· Aptitude for detail-oriented work and the ability to work in a virtual team environment required 
+· Demonstrated ability to perform in a fast-paced, high pressure environment 
+· Audit experience preferred 
+· Proficient in Microsoft Office Suite, SharePoint, Outlook and Skype 
+· Experience with Tableau, Stellent/PULSE, Service Now preferred 
+· ITIL Foundation v3 Certification preferred

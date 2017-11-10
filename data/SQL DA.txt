@@ -1,0 +1,32 @@
+Hi-Rez Studios is looking to hire a Database Administrator to work at our studio in Alpharetta, Georgia.
+
+At Hi-Rez, you will have an opportunity to be part of an innovative environment that embraces new and different ideas. We are a passionate and enthusiastic bunch who love video games. We have incredibly talented individuals who are empowered to create, and challenged to learn. All of this means more opportunities for you to unleash your energy, collaboration, and dedication.
+
+The Platform and Operations Division of Hi-Rez Studios is responsible for the development and support of programs that affect all Hi-Rez Products.
+
+Come join the creator of the critically acclaimed SMITE, Paladins & Tribes: Ascend,as we embark on exciting new game projects!
+What our DBAs do:
+
+Maintain SQL development and production environments to ensure maximum uptime and business confidence
+Who we are looking for:
+
+3-6 years of IT operation, with understanding of database structures, theories, principals and practices.
+2-4 year of Microsoft SQL Server experience, SQL 2008/2016.  T-SQL, Stored procedures.
+Monitor and validate that the various database backup operations are successful
+Maintain, create, and monitor various database processes
+Proactively monitor the system hardware utilization, make capacity planning periodically for database systems
+Establish and maintain appropriate end-user database access control levels, actively monitor the databases to ensure secure availability.
+Create, maintain and extend scripts which are used in answering business questions or processing database changes
+Technical documentation skills
+Team-oriented but self-motivated
+Ability to effectively prioritize and execute tasks in a high-pressure environment
+Strong work ethic
+Problem solver
+Preferred candidate has:
+
+BS Degree in one of the following subject areas: Computer Science or Information Technology
+Knowledge of reporting and query tools.
+Experience with SQL Server Integration Services (SSIS)
+Scripting in other languages: Windows Powershell, VBScript, Python
+Experience with MySQL
+Experience with Linux
