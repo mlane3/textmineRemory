@@ -32,7 +32,7 @@ library(tidyr)
 # Preprocessing -----------------------------------------------------------
 
 
-setwd("~/R/textmineRemory")
+setwd("~/R/textmineRemory") #set as your working directory with the data
 path = getwd()
 dir = DirSource(paste(path,"/data/",sep=""), encoding = "UTF-8")
 #corpus = Corpus(dir, readerControl=list(reader=readPDF))
@@ -50,7 +50,16 @@ docs <- tm_map(docs, removeWords, stopwords("english"))
 docs <- tm_map(docs, removeWords, c("blabla1", "blabla2")) 
 # Remove punctuations
 docs <- tm_map(docs, removePunctuation)
-
+dtm <- TermDocumentMatrix(docs)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d_other <- data.frame(word = names(v),freq=v)
+docsframe <- as.data.frame(inspect(dtm))
+#
+d <- dist(docsframe,method="cosine")
+fit <- hclust(d, method="ward")
+plot(fit)
+fit <- kmeans(d, centers = 3) # fit <- kmeans(d, centers = 10)
 ###
 docs2 <- tidy(corpus)
 library(exploratory)

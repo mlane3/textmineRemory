@@ -1,0 +1,81 @@
+Job Posting: 10682 - Position: Data Analytics Scientist
+Deadline 01/05/2018 11:59 PM
+Application Method:
+Posting Goes Live: 10/10/2017 11:59 PM
+Job Posting Status: Approved
+Company Info
+Organization Bristol Myers Squibb
+Salutation Ms.
+Job Contact First Name Atiba
+Job Contact Last Name Page
+Contact Title Sr. University Recruiter
+Phone 7326498603
+Website bms.com
+Email atiba.page@bms.com
+Address Line One 777 Scudders Mill Road
+City Plainsboro
+State or Province New Jersey
+Zip Code / Postal Code 08536
+Country United States
+Job Posting Information
+Position Type Full Time
+Job Title Data Analytics Scientist
+Job Location Devens, MA
+Compensation Paid
+Employment Sector Scientific Research & Development
+Job Description
+The role of the engineer/scientist is to enable the creation, implementation and operation of scientific and business data collection,
+visualization and modeling tools for the bioprocess laboratory development environment within the Biologics Process Development
+organization. The candidate will work with the upstream, downstream and analytical functions to understand scientific operations
+and transactional exchanges to create seamless and intuitive data collection workflows. These data streams should further be
+integrated into visualization and modeling tools for scientific analysis and modeling activities and would streamline the authoring of
+project updates and reports. Candidate will additionally have the opportunity to interface with laboratory automation and scientific
+modeling functional areas to enable the integration of business data into automation workflows and scientific data into scientific
+modeling tools. Depending on experience and interest the candidate would have the opportunity to pursue collaborative projects in
+either or both of these areas. This position is located at the Devens, MA facility and will serve as the point of contact for all
+business data and automation projects within the development environment.
+Responsibilities
+Work with laboratory functions to understand fundamentals of laboratory data collection activities, transactional exchanges and
+data analysis needs
+Become proficient at using and training others in the use of existing electronic laboratory notebook, laboratory data management,
+OSI/PI, Spotfire and other data collection and visualization workflows
+Build a cross-functional working group to identify gaps and inefficiencies and expand laboratory data collection and visualization
+capabilities
+Interface with laboratory automation, modeling and pilot manufacturing roles to support the unique requirements of each group as
+needed
+Partner with business functions, IT support groups and contract vendors to ensure timely and functional delivery of laboratory data
+collection and visualization tools
+Drive change management to enable and sustain future state business capabilities
+Champion standardization initiatives within and across business units
+Co-own business case development for proposed projects
+Co-own project commitments and deliverables
+Drive continuous improvements as needed -Collaboratively contribute to scientific modeling or laboratory automation roles if
+interested
+Work effectively in matrixed teams as well as independently to accomplish project goals.
+Job Qualifications
+BS in related discipline with a minimum 6-8 years BMS/ relevant experience
+MS in related discipline with minimum of 4-6 years BMS/ relevant experience
+Ph.D. entry level in related discipline with 0-2 years of relevant experience
+Relevant work experience or post-baccalaureate education is preferred.
+Engineering or related science degree is preferred.
+Candidate must possess good organizational skills and strong attention to detail
+Candidate must possess a creative problem-solving aptitude, and be self-motivated to envision and achieve change in the status
+quo.
+Candidate must be willing to learn new skills and possess the enthusiasm to instruct others in learning new skills.
+The candidate should also possess good verbal and written communication skills, as well as excellent interpersonal skills with the
+interest to work in a matrixed team environment.
+Knowledge of fundamentals of programming preferred
+Basic knowledge of bioprocess unit operations and development preferred
+Familiarity with scientific modeling and data preferred
+Familiarity with electronic laboratory notebook systems and laboratory data management systems preferred
+Familiarity with Spotfire, R, Python, Matlab, database query language, OSI/PI, or DeltaV preferred
+Together, we make a difference. Bristol-Myers Squibb is one of the world's BioPharma leaders, committed to delivering innovative
+medicines as well as nurturing a culture that's a springboard for progress. Our success depends on building teams of bold,
+innovative and passionate employees who will help continue to drive us further forward. No matter the role, we are united by our
+mission and determined to win this fight.
+Bristol-Myers Squibb is an equal opportunity employer - Minorities/Females/Protected Veterans/Disabled
+Start Date April 02, 2018 12:00 AM
+Application Information
+Application Procedure Through RhodyNet
+Application Material Required Cover Letter
+Resume
