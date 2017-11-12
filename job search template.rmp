@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="7.6.001">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="7.6.001" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document" width="90" x="112" y="136">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\Analytics Researcher FIlmStuck.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <description align="center" color="transparent" colored="false" width="126">You tell this where your job descriptions are&lt;br&gt;</description>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (2)" width="90" x="112" y="289">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\Blue Mountain.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (3)" width="90" x="112" y="391">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\ML engineer.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (4)" width="90" x="112" y="493">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\SquareStartUp.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (5)" width="90" x="112" y="595">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\Teaching Assistant Back End.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (6)" width="90" x="112" y="697">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\SQL DA.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (7)" width="90" x="246" y="340">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\Associate Machine Learning Engineer.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (8)" width="90" x="246" y="442">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\Hi Rez.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (9)" width="90" x="246" y="544">
+        <parameter key="file" value="C:\Users\mylan\Documents\Job Search\Square DA Manager.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (10)" width="90" x="246" y="646">
+        <parameter key="file" value="C:\Users\mylan\Documents\Aarons BI Dev.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="false" class="tableau_table_writer:write_tableau" compatibility="7.2.000" expanded="true" height="68" name="Write Tableau Extract" width="90" x="849" y="595">
+        <parameter key="Output TDE file" value="C:\Users\mylan\Downloads\test.tde"/>
+        <parameter key="append" value="false"/>
+        <description align="center" color="transparent" colored="false" width="126">If you want to send to tableau. Warning file-size may or may not crash Tableau</description>
+      </operator>
+      <operator activated="false" class="r_scripting:execute_r" compatibility="7.2.000" expanded="true" height="68" name="Execute R Wordcloud" width="90" x="849" y="442">
+        <parameter key="script" value="# rm_main is a mandatory function, &#10;# the number of arguments has to be the number of input ports (can be none)&#10;rm_main = function(data)&#10;{&#10;    library(base)&#10;    library(grDevices)&#10;    library(wordcloud)&#10;    library(RColorBrewer)&#10;    setwd(&quot;~/R/Rapidminer&quot;)&#10;    png(filename=&quot;mypng4.png&quot;, bg=&quot;transparent&quot;)&#10;    cloud_df &lt;- data.frame(word = data$word, freq = data$total)&#10;    wordcloud::wordcloud(cloud_df$word, cloud_df$freq, scale=c(5,0.5), max.words=60, random.order=FALSE,&#10;    rot.per=0.35, use.r.layout=FALSE, colors=brewer.pal(9,&quot;Blues&quot;))&#10;    dev.off()&#10;}"/>
+        <description align="center" color="transparent" colored="false" width="126">Make a pretty word cloud using R&lt;br/&gt;</description>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Your Resume" width="90" x="246" y="187">
+        <parameter key="file" value="C:\Users\mylan\Downloads\attachments\Michael Lane Resume CS 2017.docx"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+        <description align="center" color="transparent" colored="false" width="126">You put your resume here</description>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (11)" width="90" x="246" y="748">
+        <parameter key="file" value="C:\Users\mylan\Documents\Anteo Group Tablaeu Architect.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (12)" width="90" x="112" y="799">
+        <parameter key="file" value="C:\Users\mylan\Documents\Apex BI.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (13)" width="90" x="246" y="850">
+        <parameter key="file" value="C:\Users\mylan\Documents\Applied Systems BI.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (14)" width="90" x="112" y="901">
+        <parameter key="file" value="C:\Users\mylan\Documents\Assurant Data Scientist Tablaeu.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (15)" width="90" x="246" y="952">
+        <parameter key="file" value="C:\Users\mylan\Documents\Avanade Consultant Advanced Analytics.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (16)" width="90" x="112" y="1003">
+        <parameter key="file" value="C:\Users\mylan\Documents\Brooksource BI contract.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (17)" width="90" x="246" y="1054">
+        <parameter key="file" value="C:\Users\mylan\Documents\Booz Allen Hamilton Publice Health Analyst .txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (18)" width="90" x="112" y="1105">
+        <parameter key="file" value="C:\Users\mylan\Documents\Calculated Hire Technical Pricing Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (19)" width="90" x="246" y="1156">
+        <parameter key="file" value="C:\Users\mylan\Documents\BI Brainz BI.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (20)" width="90" x="112" y="1207">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\10682.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (21)" width="90" x="246" y="1258">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\3e90f08b-76b4-4531-9225-7bfa6ce366b6.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (22)" width="90" x="112" y="1309">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Capgemini BI.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (23)" width="90" x="246" y="1360">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\CapTech Tableau Data Analytics Engineer Tableau.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (24)" width="90" x="112" y="1411">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Chick-fil-A Corporate Analyst PR.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (25)" width="90" x="246" y="1462">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Cardlytics DA.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (26)" width="90" x="112" y="1513">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Childerns BI Finacial Analyst 13756.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (27)" width="90" x="246" y="1564">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Coltiviti Data Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (28)" width="90" x="112" y="1615">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Cox Analytics and Insights Intern.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (29)" width="90" x="246" y="1666">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Cox Data Analyst 3 177216.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (30)" width="90" x="112" y="1717">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Cox OBIEE Reporting Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (31)" width="90" x="246" y="1768">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Delta BI Manager.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (32)" width="90" x="112" y="1819">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Delta Cargo Specialist.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (33)" width="90" x="246" y="1870">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Eaton IoT Analytics Engineer.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (34)" width="90" x="112" y="1921">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Delta Global Group Data Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (35)" width="90" x="246" y="1972">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Eden Prairie Clinical Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (36)" width="90" x="112" y="2023">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\eHire Analytic Tools and Capabilities Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (37)" width="90" x="246" y="2074">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\EMORY DATA ANALYST.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (38)" width="90" x="112" y="2125">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Equifax Data Visualization Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (39)" width="90" x="246" y="2176">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Equifax Financial DA.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (40)" width="90" x="112" y="2227">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Equifax Sr Statistical Consultant.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (41)" width="90" x="246" y="2278">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Experis Database Administrator.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (42)" width="90" x="112" y="2329">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Georgia Pacific Sr BI Developer Entry level.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (43)" width="90" x="246" y="2380">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\IO Education BI.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (44)" width="90" x="112" y="2431">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Jemstone Associates Data Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (45)" width="90" x="246" y="2482">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\LabPharm LLC Data Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (46)" width="90" x="112" y="2533">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Lincoln Senior Bi Devleoper.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (47)" width="90" x="246" y="2584">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Matrix Database Tableau.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (48)" width="90" x="112" y="2635">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\NCR Data Analyst Tableau.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (49)" width="90" x="246" y="2686">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\OpsVision Solutions ITS Management Tablaeu.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (50)" width="90" x="112" y="2737">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Optomi Tableau.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (51)" width="90" x="246" y="2788">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Pomeroy BI.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (52)" width="90" x="112" y="2839">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Predictive Data Analyst.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (53)" width="90" x="246" y="2890">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Predictive Science DA.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (54)" width="90" x="112" y="2941">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\Primerica Web &amp; Mobile Digital Analytics Manager.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (55)" width="90" x="246" y="2992">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\SAM Google Big Data Architect.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" class="text:read_document" compatibility="7.5.000" expanded="true" height="68" name="Read Document (56)" width="90" x="112" y="3043">
+        <parameter key="file" value="C:\Users\mylan\Documents\R\textmineRemory\data\SecureWorks Tableau.txt"/>
+        <parameter key="extract_text_only" value="true"/>
+        <parameter key="use_file_extension_as_type" value="true"/>
+        <parameter key="content_type" value="txt"/>
+        <parameter key="encoding" value="SYSTEM"/>
+      </operator>
+      <operator activated="true" breakpoints="after" class="text:process_documents" compatibility="7.5.000" expanded="true" height="1279" name="Process Documents" width="90" x="514" y="136">
+        <parameter key="create_word_vector" value="true"/>
+        <parameter key="vector_creation" value="TF-IDF"/>
+        <parameter key="add_meta_information" value="true"/>
+        <parameter key="keep_text" value="false"/>
+        <parameter key="prune_method" value="absolute"/>
+        <parameter key="prune_below_percent" value="3.0"/>
+        <parameter key="prune_above_percent" value="30.0"/>
+        <parameter key="prune_below_absolute" value="2"/>
+        <parameter key="prune_above_absolute" value="60"/>
+        <parameter key="prune_below_rank" value="0.05"/>
+        <parameter key="prune_above_rank" value="0.95"/>
+        <parameter key="datamanagement" value="double_sparse_array"/>
+        <parameter key="data_management" value="auto"/>
+        <process expanded="true">
+          <operator activated="true" class="text:remove_document_parts" compatibility="7.5.000" expanded="true" height="68" name="Remove Document Parts" width="90" x="45" y="442">
+            <parameter key="deletion_regex" value="['’]"/>
+          </operator>
+          <operator activated="true" class="text:remove_document_parts" compatibility="7.5.000" expanded="true" height="68" name="Remove Document Parts (5)" width="90" x="179" y="442">
+            <parameter key="deletion_regex" value="U[.]S[.]"/>
+          </operator>
+          <operator activated="true" class="text:remove_document_parts" compatibility="7.5.000" expanded="true" height="68" name="Remove Document Parts (6)" width="90" x="313" y="442">
+            <parameter key="deletion_regex" value="i[.]e[.]"/>
+          </operator>
+          <operator activated="true" class="text:tokenize" compatibility="7.5.000" expanded="true" height="68" name="Tokenize" width="90" x="45" y="289">
+            <parameter key="mode" value="non letters"/>
+            <parameter key="characters" value=".:"/>
+            <parameter key="language" value="English"/>
+            <parameter key="max_token_length" value="3"/>
+          </operator>
+          <operator activated="true" class="text:transform_cases" compatibility="7.5.000" expanded="true" height="68" name="Transform Cases" width="90" x="179" y="289">
+            <parameter key="transform_to" value="lower case"/>
+          </operator>
+          <operator activated="true" class="text:filter_stopwords_english" compatibility="7.5.000" expanded="true" height="68" name="Filter Stopwords (English)" width="90" x="313" y="289"/>
+          <operator activated="true" class="text:filter_by_length" compatibility="7.5.000" expanded="true" height="68" name="Filter Tokens (by Length)" width="90" x="447" y="289">
+            <parameter key="min_chars" value="3"/>
+            <parameter key="max_chars" value="10000"/>
+            <description align="center" color="transparent" colored="false" width="126">Normally you can add this filter, but R is one letter so...</description>
+          </operator>
+          <operator activated="true" class="open_file" compatibility="7.6.001" expanded="true" height="68" name="Open File" width="90" x="246" y="34">
+            <parameter key="resource_type" value="file"/>
+            <parameter key="filename" value="C:\Users\mylan\Documents\stopwords.txt"/>
+          </operator>
+          <operator activated="true" class="text:filter_stopwords_dictionary" compatibility="7.5.000" expanded="true" height="82" name="Filter Stopwords (Dictionary)" width="90" x="447" y="34">
+            <parameter key="file" value="C:\Users\mylan\Documents\stopwords.txt"/>
+            <parameter key="case_sensitive" value="false"/>
+            <parameter key="encoding" value="SYSTEM"/>
+          </operator>
+          <operator activated="true" class="text:generate_n_grams_terms" compatibility="7.5.000" expanded="true" height="68" name="Generate n-Grams" width="90" x="648" y="85">
+            <parameter key="max_length" value="3"/>
+            <description align="center" color="transparent" colored="true" width="126">Set to &amp;gt; 6 to find jobs that are duplicates or exactly the same job description</description>
+          </operator>
+          <connect from_port="document" to_op="Remove Document Parts" to_port="document"/>
+          <connect from_op="Remove Document Parts" from_port="document" to_op="Remove Document Parts (5)" to_port="document"/>
+          <connect from_op="Remove Document Parts (5)" from_port="document" to_op="Remove Document Parts (6)" to_port="document"/>
+          <connect from_op="Remove Document Parts (6)" from_port="document" to_op="Tokenize" to_port="document"/>
+          <connect from_op="Tokenize" from_port="document" to_op="Transform Cases" to_port="document"/>
+          <connect from_op="Transform Cases" from_port="document" to_op="Filter Stopwords (English)" to_port="document"/>
+          <connect from_op="Filter Stopwords (English)" from_port="document" to_op="Filter Tokens (by Length)" to_port="document"/>
+          <connect from_op="Filter Tokens (by Length)" from_port="document" to_op="Filter Stopwords (Dictionary)" to_port="document"/>
+          <connect from_op="Open File" from_port="file" to_op="Filter Stopwords (Dictionary)" to_port="file"/>
+          <connect from_op="Filter Stopwords (Dictionary)" from_port="document" to_op="Generate n-Grams" to_port="document"/>
+          <connect from_op="Generate n-Grams" from_port="document" to_port="document 1"/>
+          <portSpacing port="source_document" spacing="0"/>
+          <portSpacing port="sink_document 1" spacing="0"/>
+          <portSpacing port="sink_document 2" spacing="0"/>
+          <description align="center" color="yellow" colored="false" height="136" resized="true" width="295" x="83" y="121">Step 3) Second, You need to tell it where the stopwords.txt file is. So click this &amp;quot;Open File&amp;quot; Operator s and tell it where the stopwords.txt file is. My was located at C:\Users\mylan\ Documents\stopwords.txtYou can add new stopwords to clean the data better&lt;br/&gt;</description>
+          <description align="center" color="yellow" colored="false" height="50" resized="true" width="158" x="44" y="33">^To go back up click the blue &amp;quot;process&amp;quot; link</description>
+          <description align="center" color="yellow" colored="false" height="74" resized="true" width="170" x="430" y="448">Remove Puncation Errors&lt;br/&gt;(If you find more let me know)</description>
+        </process>
+        <description align="left" color="yellow" colored="true" width="126">Step 3) We need to tell the machine where &amp;quot;stopwords.txt&amp;quot; is. So first double click the process document box above</description>
+      </operator>
+      <operator activated="true" class="k_medoids" compatibility="7.5.003" expanded="true" height="82" name="Clustering" width="90" x="782" y="136">
+        <parameter key="add_cluster_attribute" value="true"/>
+        <parameter key="add_as_label" value="false"/>
+        <parameter key="remove_unlabeled" value="false"/>
+        <parameter key="k" value="4"/>
+        <parameter key="max_runs" value="10"/>
+        <parameter key="max_optimization_steps" value="100"/>
+        <parameter key="use_local_random_seed" value="false"/>
+        <parameter key="local_random_seed" value="1992"/>
+        <parameter key="measure_types" value="NumericalMeasures"/>
+        <parameter key="mixed_measure" value="MixedEuclideanDistance"/>
+        <parameter key="nominal_measure" value="NominalDistance"/>
+        <parameter key="numerical_measure" value="JaccardSimilarity"/>
+        <parameter key="divergence" value="GeneralizedIDivergence"/>
+        <parameter key="kernel_type" value="radial"/>
+        <parameter key="kernel_gamma" value="1.0"/>
+        <parameter key="kernel_sigma1" value="1.0"/>
+        <parameter key="kernel_sigma2" value="0.0"/>
+        <parameter key="kernel_sigma3" value="2.0"/>
+        <parameter key="kernel_degree" value="3.0"/>
+        <parameter key="kernel_shift" value="1.0"/>
+        <parameter key="kernel_a" value="1.0"/>
+        <parameter key="kernel_b" value="0.0"/>
+      </operator>
+      <operator activated="false" class="subprocess" compatibility="7.6.001" expanded="true" height="82" name="Dave's C in python" width="90" x="715" y="442">
+        <process expanded="true">
+          <operator activated="true" class="loop" compatibility="7.6.001" expanded="true" height="82" name="Loop" width="90" x="45" y="34">
+            <parameter key="set_iteration_macro" value="true"/>
+            <parameter key="macro_name" value="iteration"/>
+            <parameter key="macro_start_value" value="2"/>
+            <parameter key="iterations" value="20"/>
+            <parameter key="limit_time" value="false"/>
+            <parameter key="timeout" value="1"/>
+            <process expanded="true">
+              <operator activated="true" class="k_means" compatibility="7.6.001" expanded="true" height="82" name="Clustering (2)" width="90" x="112" y="136">
+                <parameter key="add_cluster_attribute" value="true"/>
+                <parameter key="add_as_label" value="false"/>
+                <parameter key="remove_unlabeled" value="false"/>
+                <parameter key="k" value="%{iteration}"/>
+                <parameter key="max_runs" value="10"/>
+                <parameter key="determine_good_start_values" value="false"/>
+                <parameter key="measure_types" value="NumericalMeasures"/>
+                <parameter key="mixed_measure" value="MixedEuclideanDistance"/>
+                <parameter key="nominal_measure" value="NominalDistance"/>
+                <parameter key="numerical_measure" value="CosineSimilarity"/>
+                <parameter key="divergence" value="KLDivergence"/>
+                <parameter key="kernel_type" value="radial"/>
+                <parameter key="kernel_gamma" value="1.0"/>
+                <parameter key="kernel_sigma1" value="1.0"/>
+                <parameter key="kernel_sigma2" value="0.0"/>
+                <parameter key="kernel_sigma3" value="2.0"/>
+                <parameter key="kernel_degree" value="3.0"/>
+                <parameter key="kernel_shift" value="1.0"/>
+                <parameter key="kernel_a" value="1.0"/>
+                <parameter key="kernel_b" value="0.0"/>
+                <parameter key="max_optimization_steps" value="100"/>
+                <parameter key="use_local_random_seed" value="false"/>
+                <parameter key="local_random_seed" value="1992"/>
+              </operator>
+              <operator activated="true" class="cluster_distance_performance" compatibility="7.6.001" expanded="true" height="103" name="Performance" width="90" x="246" y="34">
+                <parameter key="main_criterion" value="Davies Bouldin"/>
+                <parameter key="main_criterion_only" value="false"/>
+                <parameter key="normalize" value="false"/>
+                <parameter key="maximize" value="true"/>
+              </operator>
+              <operator activated="true" class="performance_to_data" compatibility="7.6.001" expanded="true" height="82" name="Performance to Data" width="90" x="447" y="34"/>
+              <operator activated="true" class="filter_examples" compatibility="7.6.001" expanded="true" height="103" name="Filter Examples (2)" width="90" x="581" y="34">
+                <parameter key="parameter_expression" value=""/>
+                <parameter key="condition_class" value="custom_filters"/>
+                <parameter key="invert_filter" value="false"/>
+                <list key="filters_list">
+                  <parameter key="filters_entry_key" value="Criterion.equals.Davies Bouldin"/>
+                  <parameter key="filters_entry_key" value="Criterion.equals.Avg\. within centroid distance"/>
+                </list>
+                <parameter key="filters_logic_and" value="false"/>
+                <parameter key="filters_check_metadata" value="true"/>
+              </operator>
+              <operator activated="true" class="generate_attributes" compatibility="7.6.001" expanded="true" height="82" name="Generate Attributes" width="90" x="715" y="34">
+                <list key="function_descriptions">
+                  <parameter key="k" value="%{iteration}"/>
+                </list>
+                <parameter key="keep_all" value="true"/>
+              </operator>
+              <operator activated="true" class="parse_numbers" compatibility="7.6.001" expanded="true" height="82" name="Parse Numbers" width="90" x="849" y="34">
+                <parameter key="attribute_filter_type" value="single"/>
+                <parameter key="attribute" value="k"/>
+                <parameter key="attributes" value=""/>
+                <parameter key="use_except_expression" value="false"/>
+                <parameter key="value_type" value="nominal"/>
+                <parameter key="use_value_type_exception" value="false"/>
+                <parameter key="except_value_type" value="file_path"/>
+                <parameter key="block_type" value="single_value"/>
+                <parameter key="use_block_type_exception" value="false"/>
+                <parameter key="except_block_type" value="single_value"/>
+                <parameter key="invert_selection" value="false"/>
+                <parameter key="include_special_attributes" value="false"/>
+                <parameter key="decimal_character" value="."/>
+                <parameter key="grouped_digits" value="false"/>
+                <parameter key="grouping_character" value=","/>
+                <parameter key="unparsable_value_handling" value="fail"/>
+              </operator>
+              <operator activated="true" class="pivot" compatibility="7.6.001" expanded="true" height="82" name="Pivot" width="90" x="983" y="34">
+                <parameter key="group_attribute" value="k"/>
+                <parameter key="index_attribute" value="Criterion"/>
+                <parameter key="consider_weights" value="true"/>
+                <parameter key="weight_aggregation" value="sum"/>
+                <parameter key="skip_constant_attributes" value="true"/>
+                <parameter key="datamanagement" value="double_array"/>
+                <parameter key="data_management" value="auto"/>
+              </operator>
+              <connect from_port="input 1" to_op="Clustering (2)" to_port="example set"/>
+              <connect from_op="Clustering (2)" from_port="cluster model" to_op="Performance" to_port="cluster model"/>
+              <connect from_op="Clustering (2)" from_port="clustered set" to_op="Performance" to_port="example set"/>
+              <connect from_op="Performance" from_port="performance" to_op="Performance to Data" to_port="performance vector"/>
+              <connect from_op="Performance to Data" from_port="example set" to_op="Filter Examples (2)" to_port="example set input"/>
+              <connect from_op="Filter Examples (2)" from_port="example set output" to_op="Generate Attributes" to_port="example set input"/>
+              <connect from_op="Generate Attributes" from_port="example set output" to_op="Parse Numbers" to_port="example set input"/>
+              <connect from_op="Parse Numbers" from_port="example set output" to_op="Pivot" to_port="example set input"/>
+              <connect from_op="Pivot" from_port="example set output" to_port="output 1"/>
+              <portSpacing port="source_input 1" spacing="0"/>
+              <portSpacing port="source_input 2" spacing="0"/>
+              <portSpacing port="sink_output 1" spacing="0"/>
+              <portSpacing port="sink_output 2" spacing="0"/>
+            </process>
+            <description align="center" color="transparent" colored="false" width="126">Generate L-Curve&lt;br&gt;3*iteration &amp;lt; number of documents</description>
+          </operator>
+          <operator activated="true" class="append" compatibility="7.6.001" expanded="true" height="82" name="Append" width="90" x="179" y="34">
+            <parameter key="datamanagement" value="double_array"/>
+            <parameter key="data_management" value="auto"/>
+            <parameter key="merge_type" value="all"/>
+          </operator>
+          <operator activated="true" class="python_scripting:execute_python" compatibility="7.4.000" expanded="true" height="82" name="Execute Python" width="90" x="447" y="85">
+            <parameter key="script" value="import pandas&#10;import matplotlib.pyplot as plt&#10;import numpy as np&#10;&#10;# rm_main is a mandatory function, &#10;# the number of arguments has to be the number of input ports (can be none)&#10;def rm_main(df):&#10;&#10;    fig, ax = plt.subplots()&#10;    ax.scatter(df[&quot;k&quot;],df[&quot;Value_Davies Bouldin&quot;],s=80)&#10;    &#10;    plt.xlabel('Number of Clusters (k)')&#10;    plt.ylabel('Davies Bouldin Index')&#10;    #plt.title('Scores by group and gender')&#10;    plt.show()&#10;    # connect 2 output ports to see the results&#10;    return df"/>
+            <description align="center" color="transparent" colored="false" width="126">Plot DB to find cluster number</description>
+          </operator>
+          <connect from_port="in 1" to_op="Loop" to_port="input 1"/>
+          <connect from_op="Loop" from_port="output 1" to_op="Append" to_port="example set 1"/>
+          <connect from_op="Append" from_port="merged set" to_op="Execute Python" to_port="input 1"/>
+          <connect from_op="Execute Python" from_port="output 1" to_port="out 1"/>
+          <portSpacing port="source_in 1" spacing="0"/>
+          <portSpacing port="source_in 2" spacing="0"/>
+          <portSpacing port="sink_out 1" spacing="0"/>
+          <portSpacing port="sink_out 2" spacing="0"/>
+          <description align="center" color="yellow" colored="false" height="51" resized="true" width="390" x="22" y="204">Edit inside the loop to change the clustering to match the one you want to use. By default this .rmp uses Cosine Clustering.</description>
+        </process>
+        <description align="left" color="transparent" colored="false" width="126">Dave's Boudlin Criterion of Distance using the Elbow Method: The lazy way to figure out your number of clusters&lt;br&gt;(Python use to make pretty chart)&lt;br&gt;</description>
+      </operator>
+      <connect from_op="Read Document" from_port="output" to_op="Process Documents" to_port="documents 2"/>
+      <connect from_op="Read Document (2)" from_port="output" to_op="Process Documents" to_port="documents 3"/>
+      <connect from_op="Read Document (3)" from_port="output" to_op="Process Documents" to_port="documents 4"/>
+      <connect from_op="Read Document (4)" from_port="output" to_op="Process Documents" to_port="documents 5"/>
+      <connect from_op="Read Document (5)" from_port="output" to_op="Process Documents" to_port="documents 6"/>
+      <connect from_op="Read Document (6)" from_port="output" to_op="Process Documents" to_port="documents 7"/>
+      <connect from_op="Read Document (7)" from_port="output" to_op="Process Documents" to_port="documents 8"/>
+      <connect from_op="Read Document (8)" from_port="output" to_op="Process Documents" to_port="documents 9"/>
+      <connect from_op="Read Document (9)" from_port="output" to_op="Process Documents" to_port="documents 10"/>
+      <connect from_op="Read Document (10)" from_port="output" to_op="Process Documents" to_port="documents 11"/>
+      <connect from_op="Your Resume" from_port="output" to_op="Process Documents" to_port="documents 1"/>
+      <connect from_op="Read Document (11)" from_port="output" to_op="Process Documents" to_port="documents 12"/>
+      <connect from_op="Read Document (12)" from_port="output" to_op="Process Documents" to_port="documents 13"/>
+      <connect from_op="Read Document (13)" from_port="output" to_op="Process Documents" to_port="documents 14"/>
+      <connect from_op="Read Document (14)" from_port="output" to_op="Process Documents" to_port="documents 15"/>
+      <connect from_op="Read Document (15)" from_port="output" to_op="Process Documents" to_port="documents 16"/>
+      <connect from_op="Read Document (16)" from_port="output" to_op="Process Documents" to_port="documents 19"/>
+      <connect from_op="Read Document (17)" from_port="output" to_op="Process Documents" to_port="documents 18"/>
+      <connect from_op="Read Document (18)" from_port="output" to_op="Process Documents" to_port="documents 20"/>
+      <connect from_op="Read Document (19)" from_port="output" to_op="Process Documents" to_port="documents 17"/>
+      <connect from_op="Read Document (20)" from_port="output" to_op="Process Documents" to_port="documents 21"/>
+      <connect from_op="Read Document (21)" from_port="output" to_op="Process Documents" to_port="documents 22"/>
+      <connect from_op="Read Document (22)" from_port="output" to_op="Process Documents" to_port="documents 23"/>
+      <connect from_op="Read Document (23)" from_port="output" to_op="Process Documents" to_port="documents 24"/>
+      <connect from_op="Read Document (24)" from_port="output" to_op="Process Documents" to_port="documents 25"/>
+      <connect from_op="Read Document (25)" from_port="output" to_op="Process Documents" to_port="documents 26"/>
+      <connect from_op="Read Document (26)" from_port="output" to_op="Process Documents" to_port="documents 27"/>
+      <connect from_op="Read Document (27)" from_port="output" to_op="Process Documents" to_port="documents 28"/>
+      <connect from_op="Read Document (28)" from_port="output" to_op="Process Documents" to_port="documents 29"/>
+      <connect from_op="Read Document (29)" from_port="output" to_op="Process Documents" to_port="documents 30"/>
+      <connect from_op="Read Document (30)" from_port="output" to_op="Process Documents" to_port="documents 31"/>
+      <connect from_op="Read Document (31)" from_port="output" to_op="Process Documents" to_port="documents 32"/>
+      <connect from_op="Read Document (32)" from_port="output" to_op="Process Documents" to_port="documents 33"/>
+      <connect from_op="Read Document (33)" from_port="output" to_op="Process Documents" to_port="documents 34"/>
+      <connect from_op="Read Document (34)" from_port="output" to_op="Process Documents" to_port="documents 35"/>
+      <connect from_op="Read Document (35)" from_port="output" to_op="Process Documents" to_port="documents 36"/>
+      <connect from_op="Read Document (36)" from_port="output" to_op="Process Documents" to_port="documents 37"/>
+      <connect from_op="Read Document (37)" from_port="output" to_op="Process Documents" to_port="documents 38"/>
+      <connect from_op="Read Document (38)" from_port="output" to_op="Process Documents" to_port="documents 39"/>
+      <connect from_op="Read Document (39)" from_port="output" to_op="Process Documents" to_port="documents 40"/>
+      <connect from_op="Read Document (40)" from_port="output" to_op="Process Documents" to_port="documents 41"/>
+      <connect from_op="Read Document (41)" from_port="output" to_op="Process Documents" to_port="documents 42"/>
+      <connect from_op="Read Document (42)" from_port="output" to_op="Process Documents" to_port="documents 43"/>
+      <connect from_op="Read Document (43)" from_port="output" to_op="Process Documents" to_port="documents 44"/>
+      <connect from_op="Read Document (44)" from_port="output" to_op="Process Documents" to_port="documents 45"/>
+      <connect from_op="Read Document (45)" from_port="output" to_op="Process Documents" to_port="documents 46"/>
+      <connect from_op="Read Document (46)" from_port="output" to_op="Process Documents" to_port="documents 47"/>
+      <connect from_op="Read Document (47)" from_port="output" to_op="Process Documents" to_port="documents 48"/>
+      <connect from_op="Read Document (48)" from_port="output" to_op="Process Documents" to_port="documents 49"/>
+      <connect from_op="Read Document (49)" from_port="output" to_op="Process Documents" to_port="documents 51"/>
+      <connect from_op="Read Document (50)" from_port="output" to_op="Process Documents" to_port="documents 50"/>
+      <connect from_op="Read Document (51)" from_port="output" to_op="Process Documents" to_port="documents 52"/>
+      <connect from_op="Read Document (52)" from_port="output" to_op="Process Documents" to_port="documents 53"/>
+      <connect from_op="Read Document (53)" from_port="output" to_op="Process Documents" to_port="documents 54"/>
+      <connect from_op="Read Document (54)" from_port="output" to_op="Process Documents" to_port="documents 55"/>
+      <connect from_op="Read Document (55)" from_port="output" to_op="Process Documents" to_port="documents 56"/>
+      <connect from_op="Read Document (56)" from_port="output" to_op="Process Documents" to_port="documents 57"/>
+      <connect from_op="Process Documents" from_port="example set" to_op="Clustering" to_port="example set"/>
+      <connect from_op="Process Documents" from_port="word list" to_port="result 3"/>
+      <connect from_op="Clustering" from_port="cluster model" to_port="result 1"/>
+      <connect from_op="Clustering" from_port="clustered set" to_port="result 2"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+      <portSpacing port="sink_result 4" spacing="0"/>
+      <description align="left" color="yellow" colored="false" height="122" resized="true" width="526" x="28" y="10">These &amp;quot;Read Document&amp;quot; operators are where you will tell the machine where each of your job descriptions are. You job descriptions should have been copy/pasted into word or txt documents&lt;br&gt;Step 1) For each document, click one &amp;quot;Read Document&amp;quot; box so its highlighted orange. Then go to the Parameters window to the right and hit the folder icon. Then locate where you stored your job description document on your computer</description>
+      <description align="center" color="yellow" colored="false" height="198" resized="true" width="204" x="737" y="225">Step 4) Hit the Play button.&lt;br&gt;Id = 1.0 = you!!&lt;br&gt;The cluster you are in are the jobs that match you!&lt;br&gt;Try different clustering metrics (cosine, jacaard) or clustering operators for different results.&lt;br&gt;You can also try the Alyien or Rossette. Or code it yourself (see hints)&lt;br&gt;</description>
+      <description align="center" color="yellow" colored="false" height="87" resized="true" width="230" x="556" y="17">Step 2) Delete the Read Document operators you don't use. Then scroll all the way down for step 3&lt;br/&gt;&lt;br/&gt;</description>
+      <description align="center" color="yellow" colored="false" height="174" resized="false" width="180" x="732" y="773">Hint 1: Using K-mean with Euclidean Distance is a BAD IDEA. Use Cosine, Jacaard, Dissimilarity or Divergences (like KL- Divergences)&lt;br&gt;Bonus Points-- if you can find the research papers or Machine learning articles that explain why. :)</description>
+      <description align="center" color="yellow" colored="false" height="114" resized="true" width="204" x="731" y="950">Hint 1: Personally I think its also has to do with this data cleaning vs. velocity of data because job descriptions come and go on a monthly basis.</description>
+      <description align="center" color="yellow" colored="false" height="219" resized="true" width="237" x="726" y="1068">Hint 2: I have simplified this cleaning and clustering optimization a little as its an introduction. For those of you who know coding may want to look into alternative non-elbow methods of clustering optimization. Also look at better ways of cleaning text such as L-D-A libraries, NLP libraries, Part of Speech libraries (google emory psychology, gsu, gatech researchers in text mining)</description>
+    </process>
+  </operator>
+</process>
