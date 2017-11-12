@@ -1,0 +1,47 @@
+Client: Surgical, Inc. 
+Position Title: Data Applications Engineer
+ 
+Location : Norcross, GA
+Duration : 4 months contract (possible extension)
+Availability: Interviewing Now
+ 
+ 
+Primary Function of Position: 
+
+Contribute broadly to the Applied Research team, responsible for advanced analytics and new technology development focused on surgical workflow and performance for next generation robotic surgery platforms. 
+
+The successful candidate must excel in a high-energy, focused, small-team environment, be able to initiate and drive new research directions, and have a commitment to high research quality. A strong sense of shared responsibility and shared reward is required. 
+
+KEY RESPONSIBILITIES:
+
+As part of the research team, immediate responsibilities include:
+
+Develop and support data visualization applications including embedded video streaming 
+Develop customized tools to spatially and temporally annotate data based on video review 
+Support integration of database with large analysis environments 
+Test and maintain large databases of videos, system data, and meta data 
+Work closely with research data scientists throughout analysis, visualization, and modeling efforts 
+Support multiple engineering and analytics teams in accessing data 
+
+Additional responsibilities include:
+
+Support research pilot studies 
+Work with product development teams to bring data products to market 
+Continuously explore optimal database designs, storage solutions, and analysis environments
+
+ 
+ 
+EXPERIENCE, KNOWLEDGE, SKILLS REQUIRED: 
+ 
+Competency Requirements: (Competency based upon education, training, skills and experience). In order to perform the responsibilities of this position, the individual must have: 
+
+M.S. in Computer Science, Software/Computer Engineering, or Applied Math, or B.S. degree with minimum (3) years industry experience developing data visualizations 
+Experience with R, Python, and Matlab is required 
+Expertise with R Shiny visualization framework is required 
+Proficient in Postgres and/or SQL-based technologies is required 
+Experience with database design and management is required 
+Experience with AWS cloud storage, hosting, and compute environments is ideal 
+Experience with Python web frameworks such as Django or Flask or other open source frameworks is ideal 
+Interested in early research and development/prototype efforts 
+Demonstrate excellent communication skills both written and verbal 
+Ability to travel domestically and internationally (10-20%) 
