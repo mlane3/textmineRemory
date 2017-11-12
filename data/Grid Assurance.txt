@@ -1,0 +1,62 @@
+Data Analyst-Technical Analyst, Grid Assurance
+North American Electric Reliability Corporation (NERC) • Atlanta, GA Posted 26 days ago
+Apply Now
+ Email Job  Save Job
+Job Snapshot
+Full-Time  Degree - 4 Year Degree  Energy - Utilities - Gas - Electric, Computer Software, Computer Hardware  Information Technology
+Job Description
+Technical Analyst, Grid Assurance
+
+ 
+
+Position Summary
+
+The Technical Analyst is responsible for collecting, analyzing, and managing data to identify trends in performance and risk to bulk power system for a variety of NERC Grid Assurance reports and studies.  The position will support all data, analysis, and information-system needs for evaluating, reporting and planning NERC’s Grid Assurance activities. In coordination with the team, this role will seek out data and information system solutions to manage data submissions from the electric industry and Regional Entities, identify automated approaches for analyzing and linking data with other sources, develop and implement data visualization techniques, and provide recommendations to management for further improvement. The Data Analyst works closely with Reliability Assurance team to identify data and database requirements, as well as NERC’s Project Management Office to support application development. The Data Analyst reports to the Senior Director of Reliability Assurance.
+
+Duties and Responsibilities
+
+Manage data processes and systems for compliance team for identifying, prioritizing assessing and evauating the reliability of the Bulk Power System across North America to focus Compliance Enforcement Authority resources where they are most needed and to be most effective.
+Support NERC’s Risk Based approach to oversight and monitoring programs.
+Provide interface with Regional Entities for data transmittal for analysis and metrics tracking.
+Strengthen data collection and validation processes by designing, creating, testing, and implementing data checking systems to streamline and accommodate an increasing amount of data.
+Proactively identify and suggest solutions to technical analysis and data problems.
+Interpret data, analyze results using statistical techniques and provide ongoing reports.
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality.
+Acquire and process data from data sources and maintain databases/data systems.
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Filter and “clean" data through various forensic initiatives.
+Work with management to prioritize business and information needs.
+Locate and define new process improvement opportunities.
+Develop and produce materials in support of the NERC Board of Trustees meeting.
+Leverage statistical skills to support risk and predictive analyes.
+Support ad-hoc data requests and information needs of staff members,  and government agencies.
+Job Requirements
+Qualifications
+
+The successful candidate will have:
+
+Bachelor’s degree in science with emphasis on statistics, mathematics, and computer and information management, or equivalent technical training.
+Proven working experience as a data analyst, business data analyst, data scientist, or programmer.
+Strong knowledge of and experience with reporting packages (Business Objects, Power BI, Tableau, Shiny, etc), databases and database manipulation (SQL, etc), programming (XML, Javascript, Python, or ETL frameworks).
+Technical expertise regarding data models, database design development, data mining and segmentation techniques.
+Knowledge of statistics and experience using statistical packages for analyzing datasets (Excel, SPSS, SAS etc).
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+Adept at queries, report writing, and presenting findings with attention to details and visualization techniques.
+Strong statistical and analytical skills.
+Goal oriented with drive and passion to learn.
+Capability to work independently or collaboratively with teams and support multiple tasks concurrently.
+Expert proficiency in Microsoft Office applications.
+Additional desired attributes include:
+
+Advanced Statistical experience, including experience with statistical programming languages (e.g., SAS, R, R Studio).
+Basic understanding of the electric power industry including bulk power system operations and/or planning.
+Proficient in writing both for technical and general public consumption.
+Customer-service and support background helpful.
+
+
+Other:
+
+Background check will be conducted prior to employment
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire
+Role is classified as exempt.
+Job is located in Atlanta, Georgia

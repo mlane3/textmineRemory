@@ -1,0 +1,27 @@
+Client: Idina Menzel
+Financial Data Analyst - BHJOB2052_13850
+Visionaire Partners,  Atlanta, GA  Posted 3 days ago
+
+Job Description
+
+Financial Data Analyst / Data Modeler
+Extremely successful insurance services company is seeking a financial data analyst / financial data modeler to join their A+ team!
+In this direct-hire position, you will utilize R, SAS, SQL, and a variety of constantly emerging data modeling and analysis packages, tools, and software to analyze trends and solve complex problems within various insurance business units (property & casualty & brokerage and binding). Your goal in this position, is to interpret complex business questions and then create predictive models and analysis that produces actionable intelligence for the business leaders!
+1 day per week of telecommuting (once up to speed)
+Substantial annual target bonus
+4 weeks of starting PTO!
+5% Matched 401k that vests immediately!
+REQUIRED SKILLS:
+
+Bachelor's Degree (Math or Statistics or Actuarial Sciences or Finance or similar)
+2+ years of R or SAS or Python (building statistical & predictive models)
+Strong with Excel (Pivot Tables, VLOOKUP, Macros, etc)
+SQL (ideally writing queries, functions, tables, & joins within SQL Server version 2012 or newer)
+True Passion for Data Modeling & Data Mining
+Excellent communication & problem-solving skills
+PREFERRED SKILLS:
+
+P&C Insurance Experience
+Knowledge of Binding Authority (insurance)
+Knowledge of Stochastic Models
+
